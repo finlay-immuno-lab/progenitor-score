@@ -85,8 +85,16 @@ bmps_score <- function(counts, symbols = rownames(counts), qc = NULL, model = NU
 bmps_score_seurat <- function(obj, assay = NULL, layer = "counts", symbols = NULL, qc_col = NULL, prefix = "bmps_", add = TRUE, ...) {
   if (!requireNamespace("SeuratObject", quietly = TRUE)) stop("SeuratObject is required for bmps_score_seurat")
   if (is.null(assay)) assay <- SeuratObject::DefaultAssay(obj)
-  cts <- tryCatch(SeuratObject::GetAssayData(obj, assay = assay, layer = layer), error = function(e) SeuratObject::GetAssayData(obj, assay = assay, slot = layer))
-  if (is.null(cts) || ncol(cts) != ncol(obj)) stop("counts layer is missing or split; run SeuratObject::JoinLayers() first")
+  # SeuratObject >= 5.0.0: GetAssayData() takes `layer`; its `slot` argument is deprecated there and defunct (errors) as of 5.4.0 , so it
+  # must never be passed on that version. Older SeuratObject (< 5.0.0) has no `layer` argument and needs `slot` instead.
+  old_api <- tryCatch(utils::packageVersion("SeuratObject") < "5.0.0", error = function(e) FALSE)
+  cts <- tryCatch(if (old_api) SeuratObject::GetAssayData(obj, assay = assay, slot = layer) else SeuratObject::GetAssayData(obj, assay = assay, layer = layer),
+                   error = function(e) NULL)
+  if (is.null(cts) || ncol(cts) != ncol(obj)) {
+    avail <- tryCatch(paste(SeuratObject::Layers(obj, assay = assay), collapse = ", "), error = function(e) NA)
+    stop(sprintf("layer '%s' of assay '%s' is missing or incomplete (available layers: %s); if counts are split across samples, run SeuratObject::JoinLayers() first",
+                 layer, assay, if (is.na(avail)) "unknown" else avail))
+  }
   qc <- if (is.null(qc_col)) NULL else obj[[qc_col, drop = TRUE]]
   res <- bmps_score(cts, symbols = if (is.null(symbols)) rownames(cts) else symbols, qc = qc, ...)
   if (!add) return(res)

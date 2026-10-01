@@ -17,5 +17,18 @@ if (requireNamespace("SeuratObject", quietly = TRUE)) {
   obj$qc <- qc; obj <- bmps_score_seurat(obj, qc_col = "qc"); md <- obj[[]]
   stopifnot(identical(md$bmps_progenitor_call, exp$progenitor_call), all(md$bmps_bm_state[!is.na(exp$bm_state)] == exp$bm_state[!is.na(exp$bm_state)]))
   cat("Seurat object                OK (columns:", paste(grep("^bmps_", names(md), value = TRUE), collapse = ", "), ")\n")
+
+  # regression: an un-joined Assay5 (split counts.1/counts.2 layers) must give a clear, actionable error -- never the
+  # "slot argument ... defunct" message that leaked through when GetAssayData() was called with a deprecated argument
+  m1 <- SeuratObject::CreateSeuratObject(counts = Matrix::Matrix(cts[!dd, 1:20], sparse = TRUE)); m1$qc <- qc[1:20]
+  m2 <- SeuratObject::CreateSeuratObject(counts = Matrix::Matrix(cts[!dd, 21:40], sparse = TRUE)); m2$qc <- qc[21:40]
+  merged <- merge(m1, m2)
+  err <- tryCatch({ bmps_score_seurat(merged, qc_col = "qc"); NULL }, error = function(e) conditionMessage(e))
+  stopifnot(!is.null(err), grepl("JoinLayers", err), !grepl("defunct|deprecat", err, ignore.case = TRUE))
+  cat("Split-layer Seurat object    OK (clear error, mentions JoinLayers, no deprecated-argument message)\n")
+  merged <- SeuratObject::JoinLayers(merged)
+  rj <- bmps_score_seurat(merged, qc_col = "qc")[[]]
+  stopifnot(identical(unname(rj$bmps_progenitor_call), exp$progenitor_call[match(rownames(rj), rownames(exp))]))
+  cat("Split-layer after JoinLayers OK (40 cells)\n")
 }
 bmps_citation()
