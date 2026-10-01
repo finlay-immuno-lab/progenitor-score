@@ -1,0 +1,4 @@
+Scripts that built and validated the model. They are records, not a pipeline: paths point to the original machine (edit `R`, `BMP`, `XLS`), they need the BoneMarrowMap h5ad and Supplementary Tables (not in this repo), and `build_validate.py` writes a CellTypist pickle that `export_tables.py` turned into the tables in `src/progenitor_score/models/` (then copy them to `inst/extdata/models/`; a test checks the two are identical).
+`make_golden.py` rebuilds `tests/golden_*` from that pickle with synthetic inputs.
+`make_sim_profiles.py` makes the pseudobulk state profiles used by `examples/simulate_counts.py`.
+`validate2.py` produced the validation tables. The margin x top1 grid in `docs/validation/validation_in_progenitor_margin_top1.csv` was computed from the held-out decision values with `progenitor_score.score_matrix`.

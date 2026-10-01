@@ -1,0 +1,731 @@
+cell,true_population,true_state,true_group,umis,qc_pass
+cell0000,HSC,HSC,multipotent,927,True
+cell0001,HSC,HSC,multipotent,1714,True
+cell0002,HSC,HSC,multipotent,2598,True
+cell0003,HSC,HSC,multipotent,2299,True
+cell0004,HSC,HSC,multipotent,1935,True
+cell0005,HSC,HSC,multipotent,1458,True
+cell0006,HSC,HSC,multipotent,2283,True
+cell0007,HSC,HSC,multipotent,751,True
+cell0008,HSC,HSC,multipotent,1236,True
+cell0009,HSC,HSC,multipotent,4168,True
+cell0010,HSC,HSC,multipotent,909,True
+cell0011,HSC,HSC,multipotent,1298,True
+cell0012,HSC,HSC,multipotent,741,True
+cell0013,HSC,HSC,multipotent,2314,True
+cell0014,HSC,HSC,multipotent,1768,True
+cell0015,HSC,HSC,multipotent,1657,True
+cell0016,HSC,HSC,multipotent,777,True
+cell0017,HSC,HSC,multipotent,789,True
+cell0018,HSC,HSC,multipotent,2618,True
+cell0019,HSC,HSC,multipotent,1128,True
+cell0020,HSC,HSC,multipotent,1601,True
+cell0021,HSC,HSC,multipotent,1898,True
+cell0022,HSC,HSC,multipotent,646,True
+cell0023,HSC,HSC,multipotent,2651,True
+cell0024,HSC,HSC,multipotent,1630,True
+cell0025,HSC,HSC,multipotent,3306,True
+cell0026,HSC,HSC,multipotent,414,False
+cell0027,HSC,HSC,multipotent,1622,True
+cell0028,HSC,HSC,multipotent,855,True
+cell0029,HSC,HSC,multipotent,481,False
+cell0030,HSC,HSC,multipotent,534,True
+cell0031,HSC,HSC,multipotent,1140,True
+cell0032,HSC,HSC,multipotent,1133,True
+cell0033,HSC,HSC,multipotent,619,True
+cell0034,HSC,HSC,multipotent,1069,True
+cell0035,HSC,HSC,multipotent,1066,True
+cell0036,HSC,HSC,multipotent,1674,True
+cell0037,HSC,HSC,multipotent,845,True
+cell0038,HSC,HSC,multipotent,466,False
+cell0039,HSC,HSC,multipotent,1528,True
+cell0040,HSC,HSC,multipotent,1474,True
+cell0041,HSC,HSC,multipotent,2018,True
+cell0042,HSC,HSC,multipotent,1384,True
+cell0043,HSC,HSC,multipotent,2232,True
+cell0044,HSC,HSC,multipotent,613,True
+cell0045,HSC,HSC,multipotent,765,True
+cell0046,HSC,HSC,multipotent,1594,True
+cell0047,HSC,HSC,multipotent,611,True
+cell0048,HSC,HSC,multipotent,1319,True
+cell0049,HSC,HSC,multipotent,1241,True
+cell0050,Early GMP,Early GMP,myeloid_progenitor,2830,True
+cell0051,Early GMP,Early GMP,myeloid_progenitor,1762,True
+cell0052,Early GMP,Early GMP,myeloid_progenitor,1275,True
+cell0053,Early GMP,Early GMP,myeloid_progenitor,778,True
+cell0054,Early GMP,Early GMP,myeloid_progenitor,2416,True
+cell0055,Early GMP,Early GMP,myeloid_progenitor,1981,True
+cell0056,Early GMP,Early GMP,myeloid_progenitor,2712,True
+cell0057,Early GMP,Early GMP,myeloid_progenitor,648,True
+cell0058,Early GMP,Early GMP,myeloid_progenitor,1182,True
+cell0059,Early GMP,Early GMP,myeloid_progenitor,1621,True
+cell0060,Early GMP,Early GMP,myeloid_progenitor,1201,True
+cell0061,Early GMP,Early GMP,myeloid_progenitor,4266,True
+cell0062,Early GMP,Early GMP,myeloid_progenitor,1959,True
+cell0063,Early GMP,Early GMP,myeloid_progenitor,876,True
+cell0064,Early GMP,Early GMP,myeloid_progenitor,824,True
+cell0065,Early GMP,Early GMP,myeloid_progenitor,1723,True
+cell0066,Early GMP,Early GMP,myeloid_progenitor,1999,True
+cell0067,Early GMP,Early GMP,myeloid_progenitor,2752,True
+cell0068,Early GMP,Early GMP,myeloid_progenitor,1306,True
+cell0069,Early GMP,Early GMP,myeloid_progenitor,1090,True
+cell0070,Early GMP,Early GMP,myeloid_progenitor,2038,True
+cell0071,Early GMP,Early GMP,myeloid_progenitor,610,True
+cell0072,Early GMP,Early GMP,myeloid_progenitor,1027,True
+cell0073,Early GMP,Early GMP,myeloid_progenitor,2206,True
+cell0074,Early GMP,Early GMP,myeloid_progenitor,1605,True
+cell0075,Early GMP,Early GMP,myeloid_progenitor,2803,True
+cell0076,Early GMP,Early GMP,myeloid_progenitor,1432,True
+cell0077,Early GMP,Early GMP,myeloid_progenitor,2218,True
+cell0078,Early GMP,Early GMP,myeloid_progenitor,1865,True
+cell0079,Early GMP,Early GMP,myeloid_progenitor,2921,True
+cell0080,Early GMP,Early GMP,myeloid_progenitor,2564,True
+cell0081,Early GMP,Early GMP,myeloid_progenitor,790,True
+cell0082,Early GMP,Early GMP,myeloid_progenitor,4174,True
+cell0083,Early GMP,Early GMP,myeloid_progenitor,811,True
+cell0084,Early GMP,Early GMP,myeloid_progenitor,2134,True
+cell0085,Early GMP,Early GMP,myeloid_progenitor,2681,True
+cell0086,Early GMP,Early GMP,myeloid_progenitor,1583,True
+cell0087,Early GMP,Early GMP,myeloid_progenitor,4316,True
+cell0088,Early GMP,Early GMP,myeloid_progenitor,1425,True
+cell0089,Early GMP,Early GMP,myeloid_progenitor,1121,True
+cell0090,Early GMP,Early GMP,myeloid_progenitor,2408,True
+cell0091,Early GMP,Early GMP,myeloid_progenitor,422,False
+cell0092,Early GMP,Early GMP,myeloid_progenitor,1601,True
+cell0093,Early GMP,Early GMP,myeloid_progenitor,968,True
+cell0094,Early GMP,Early GMP,myeloid_progenitor,1543,True
+cell0095,Early GMP,Early GMP,myeloid_progenitor,1218,True
+cell0096,Early GMP,Early GMP,myeloid_progenitor,1531,True
+cell0097,Early GMP,Early GMP,myeloid_progenitor,798,True
+cell0098,Early GMP,Early GMP,myeloid_progenitor,1408,True
+cell0099,Early GMP,Early GMP,myeloid_progenitor,3018,True
+cell0100,Early GMP,Early GMP,myeloid_progenitor,2067,True
+cell0101,Early GMP,Early GMP,myeloid_progenitor,1005,True
+cell0102,Early GMP,Early GMP,myeloid_progenitor,2424,True
+cell0103,Early GMP,Early GMP,myeloid_progenitor,410,False
+cell0104,Early GMP,Early GMP,myeloid_progenitor,1543,True
+cell0105,Early GMP,Early GMP,myeloid_progenitor,1586,True
+cell0106,Early GMP,Early GMP,myeloid_progenitor,1689,True
+cell0107,Early GMP,Early GMP,myeloid_progenitor,4155,True
+cell0108,Early GMP,Early GMP,myeloid_progenitor,783,True
+cell0109,Early GMP,Early GMP,myeloid_progenitor,1125,True
+cell0110,Early GMP,Early GMP,myeloid_progenitor,1550,True
+cell0111,Early GMP,Early GMP,myeloid_progenitor,3153,True
+cell0112,Early GMP,Early GMP,myeloid_progenitor,6692,True
+cell0113,Early GMP,Early GMP,myeloid_progenitor,633,True
+cell0114,Early GMP,Early GMP,myeloid_progenitor,975,True
+cell0115,Early GMP,Early GMP,myeloid_progenitor,1673,True
+cell0116,Early GMP,Early GMP,myeloid_progenitor,761,True
+cell0117,Early GMP,Early GMP,myeloid_progenitor,436,False
+cell0118,Early GMP,Early GMP,myeloid_progenitor,1215,True
+cell0119,Early GMP,Early GMP,myeloid_progenitor,1344,True
+cell0120,GMP-Mono,GMP-Mono,myeloid_progenitor,1499,True
+cell0121,GMP-Mono,GMP-Mono,myeloid_progenitor,2279,True
+cell0122,GMP-Mono,GMP-Mono,myeloid_progenitor,3179,True
+cell0123,GMP-Mono,GMP-Mono,myeloid_progenitor,1211,True
+cell0124,GMP-Mono,GMP-Mono,myeloid_progenitor,545,True
+cell0125,GMP-Mono,GMP-Mono,myeloid_progenitor,1563,True
+cell0126,GMP-Mono,GMP-Mono,myeloid_progenitor,2036,True
+cell0127,GMP-Mono,GMP-Mono,myeloid_progenitor,2089,True
+cell0128,GMP-Mono,GMP-Mono,myeloid_progenitor,3979,True
+cell0129,GMP-Mono,GMP-Mono,myeloid_progenitor,1556,True
+cell0130,GMP-Mono,GMP-Mono,myeloid_progenitor,985,True
+cell0131,GMP-Mono,GMP-Mono,myeloid_progenitor,1773,True
+cell0132,GMP-Mono,GMP-Mono,myeloid_progenitor,3734,True
+cell0133,GMP-Mono,GMP-Mono,myeloid_progenitor,998,True
+cell0134,GMP-Mono,GMP-Mono,myeloid_progenitor,2012,True
+cell0135,GMP-Mono,GMP-Mono,myeloid_progenitor,376,False
+cell0136,GMP-Mono,GMP-Mono,myeloid_progenitor,2167,True
+cell0137,GMP-Mono,GMP-Mono,myeloid_progenitor,948,True
+cell0138,GMP-Mono,GMP-Mono,myeloid_progenitor,752,True
+cell0139,GMP-Mono,GMP-Mono,myeloid_progenitor,1158,True
+cell0140,GMP-Mono,GMP-Mono,myeloid_progenitor,2974,True
+cell0141,GMP-Mono,GMP-Mono,myeloid_progenitor,842,True
+cell0142,GMP-Mono,GMP-Mono,myeloid_progenitor,1082,True
+cell0143,GMP-Mono,GMP-Mono,myeloid_progenitor,734,True
+cell0144,GMP-Mono,GMP-Mono,myeloid_progenitor,2185,True
+cell0145,GMP-Mono,GMP-Mono,myeloid_progenitor,2294,True
+cell0146,GMP-Mono,GMP-Mono,myeloid_progenitor,4107,True
+cell0147,GMP-Mono,GMP-Mono,myeloid_progenitor,1050,True
+cell0148,GMP-Mono,GMP-Mono,myeloid_progenitor,1606,True
+cell0149,GMP-Mono,GMP-Mono,myeloid_progenitor,1628,True
+cell0150,GMP-Mono,GMP-Mono,myeloid_progenitor,1936,True
+cell0151,GMP-Mono,GMP-Mono,myeloid_progenitor,812,True
+cell0152,GMP-Mono,GMP-Mono,myeloid_progenitor,1402,True
+cell0153,GMP-Mono,GMP-Mono,myeloid_progenitor,1000,True
+cell0154,GMP-Mono,GMP-Mono,myeloid_progenitor,1383,True
+cell0155,GMP-Mono,GMP-Mono,myeloid_progenitor,862,True
+cell0156,GMP-Mono,GMP-Mono,myeloid_progenitor,1431,True
+cell0157,GMP-Mono,GMP-Mono,myeloid_progenitor,1020,True
+cell0158,GMP-Mono,GMP-Mono,myeloid_progenitor,1563,True
+cell0159,GMP-Mono,GMP-Mono,myeloid_progenitor,1620,True
+cell0160,GMP-Mono,GMP-Mono,myeloid_progenitor,2103,True
+cell0161,GMP-Mono,GMP-Mono,myeloid_progenitor,393,False
+cell0162,GMP-Mono,GMP-Mono,myeloid_progenitor,4340,True
+cell0163,GMP-Mono,GMP-Mono,myeloid_progenitor,2833,True
+cell0164,GMP-Mono,GMP-Mono,myeloid_progenitor,1575,True
+cell0165,GMP-Mono,GMP-Mono,myeloid_progenitor,1797,True
+cell0166,GMP-Mono,GMP-Mono,myeloid_progenitor,1377,True
+cell0167,GMP-Mono,GMP-Mono,myeloid_progenitor,5191,True
+cell0168,GMP-Mono,GMP-Mono,myeloid_progenitor,2061,True
+cell0169,GMP-Mono,GMP-Mono,myeloid_progenitor,1436,True
+cell0170,GMP-Mono,GMP-Mono,myeloid_progenitor,1204,True
+cell0171,GMP-Mono,GMP-Mono,myeloid_progenitor,1494,True
+cell0172,GMP-Mono,GMP-Mono,myeloid_progenitor,1120,True
+cell0173,GMP-Mono,GMP-Mono,myeloid_progenitor,1365,True
+cell0174,GMP-Mono,GMP-Mono,myeloid_progenitor,1176,True
+cell0175,GMP-Mono,GMP-Mono,myeloid_progenitor,2191,True
+cell0176,GMP-Mono,GMP-Mono,myeloid_progenitor,586,True
+cell0177,GMP-Mono,GMP-Mono,myeloid_progenitor,2260,True
+cell0178,GMP-Mono,GMP-Mono,myeloid_progenitor,1845,True
+cell0179,GMP-Mono,GMP-Mono,myeloid_progenitor,1113,True
+cell0180,GMP-Mono,GMP-Mono,myeloid_progenitor,633,True
+cell0181,GMP-Mono,GMP-Mono,myeloid_progenitor,1935,True
+cell0182,GMP-Mono,GMP-Mono,myeloid_progenitor,1463,True
+cell0183,GMP-Mono,GMP-Mono,myeloid_progenitor,1359,True
+cell0184,GMP-Mono,GMP-Mono,myeloid_progenitor,1315,True
+cell0185,GMP-Mono,GMP-Mono,myeloid_progenitor,1417,True
+cell0186,GMP-Mono,GMP-Mono,myeloid_progenitor,2306,True
+cell0187,GMP-Mono,GMP-Mono,myeloid_progenitor,1548,True
+cell0188,GMP-Mono,GMP-Mono,myeloid_progenitor,3620,True
+cell0189,GMP-Mono,GMP-Mono,myeloid_progenitor,1198,True
+cell0190,Pre-cDC,Pre-cDC,dc_precursor,1331,True
+cell0191,Pre-cDC,Pre-cDC,dc_precursor,492,False
+cell0192,Pre-cDC,Pre-cDC,dc_precursor,1371,True
+cell0193,Pre-cDC,Pre-cDC,dc_precursor,2810,True
+cell0194,Pre-cDC,Pre-cDC,dc_precursor,1762,True
+cell0195,Pre-cDC,Pre-cDC,dc_precursor,2385,True
+cell0196,Pre-cDC,Pre-cDC,dc_precursor,777,True
+cell0197,Pre-cDC,Pre-cDC,dc_precursor,517,True
+cell0198,Pre-cDC,Pre-cDC,dc_precursor,2917,True
+cell0199,Pre-cDC,Pre-cDC,dc_precursor,3781,True
+cell0200,Pre-cDC,Pre-cDC,dc_precursor,774,True
+cell0201,Pre-cDC,Pre-cDC,dc_precursor,1640,True
+cell0202,Pre-cDC,Pre-cDC,dc_precursor,1044,True
+cell0203,Pre-cDC,Pre-cDC,dc_precursor,2206,True
+cell0204,Pre-cDC,Pre-cDC,dc_precursor,1371,True
+cell0205,Pre-cDC,Pre-cDC,dc_precursor,1804,True
+cell0206,Pre-cDC,Pre-cDC,dc_precursor,1127,True
+cell0207,Pre-cDC,Pre-cDC,dc_precursor,4582,True
+cell0208,Pre-cDC,Pre-cDC,dc_precursor,2369,True
+cell0209,Pre-cDC,Pre-cDC,dc_precursor,2615,True
+cell0210,Pre-cDC,Pre-cDC,dc_precursor,2139,True
+cell0211,Pre-cDC,Pre-cDC,dc_precursor,1606,True
+cell0212,Pre-cDC,Pre-cDC,dc_precursor,730,True
+cell0213,Pre-cDC,Pre-cDC,dc_precursor,2079,True
+cell0214,Pre-cDC,Pre-cDC,dc_precursor,796,True
+cell0215,Pre-cDC,Pre-cDC,dc_precursor,1013,True
+cell0216,Pre-cDC,Pre-cDC,dc_precursor,4833,True
+cell0217,Pre-cDC,Pre-cDC,dc_precursor,2392,True
+cell0218,Pre-cDC,Pre-cDC,dc_precursor,869,True
+cell0219,Pre-cDC,Pre-cDC,dc_precursor,8637,True
+cell0220,Pre-cDC,Pre-cDC,dc_precursor,1813,True
+cell0221,Pre-cDC,Pre-cDC,dc_precursor,3503,True
+cell0222,Pre-cDC,Pre-cDC,dc_precursor,1082,True
+cell0223,Pre-cDC,Pre-cDC,dc_precursor,1326,True
+cell0224,Pre-cDC,Pre-cDC,dc_precursor,524,True
+cell0225,Pre-cDC,Pre-cDC,dc_precursor,743,True
+cell0226,Pre-cDC,Pre-cDC,dc_precursor,2018,True
+cell0227,Pre-cDC,Pre-cDC,dc_precursor,1149,True
+cell0228,Pre-cDC,Pre-cDC,dc_precursor,1229,True
+cell0229,Pre-cDC,Pre-cDC,dc_precursor,567,True
+cell0230,Pre-cDC,Pre-cDC,dc_precursor,822,True
+cell0231,Pre-cDC,Pre-cDC,dc_precursor,1257,True
+cell0232,Pre-cDC,Pre-cDC,dc_precursor,1757,True
+cell0233,Pre-cDC,Pre-cDC,dc_precursor,610,True
+cell0234,Pre-cDC,Pre-cDC,dc_precursor,1714,True
+cell0235,Pre-cDC,Pre-cDC,dc_precursor,2544,True
+cell0236,Pre-cDC,Pre-cDC,dc_precursor,2951,True
+cell0237,Pre-cDC,Pre-cDC,dc_precursor,817,True
+cell0238,Pre-cDC,Pre-cDC,dc_precursor,541,True
+cell0239,Pre-cDC,Pre-cDC,dc_precursor,1744,True
+cell0240,Pre-pDC,Pre-pDC,dc_precursor,456,False
+cell0241,Pre-pDC,Pre-pDC,dc_precursor,1053,True
+cell0242,Pre-pDC,Pre-pDC,dc_precursor,1688,True
+cell0243,Pre-pDC,Pre-pDC,dc_precursor,1594,True
+cell0244,Pre-pDC,Pre-pDC,dc_precursor,2015,True
+cell0245,Pre-pDC,Pre-pDC,dc_precursor,2530,True
+cell0246,Pre-pDC,Pre-pDC,dc_precursor,866,True
+cell0247,Pre-pDC,Pre-pDC,dc_precursor,351,False
+cell0248,Pre-pDC,Pre-pDC,dc_precursor,1858,True
+cell0249,Pre-pDC,Pre-pDC,dc_precursor,2907,True
+cell0250,Pre-pDC,Pre-pDC,dc_precursor,1895,True
+cell0251,Pre-pDC,Pre-pDC,dc_precursor,1828,True
+cell0252,Pre-pDC,Pre-pDC,dc_precursor,5663,True
+cell0253,Pre-pDC,Pre-pDC,dc_precursor,986,True
+cell0254,Pre-pDC,Pre-pDC,dc_precursor,2009,True
+cell0255,Pre-pDC,Pre-pDC,dc_precursor,1585,True
+cell0256,Pre-pDC,Pre-pDC,dc_precursor,2051,True
+cell0257,Pre-pDC,Pre-pDC,dc_precursor,657,True
+cell0258,Pre-pDC,Pre-pDC,dc_precursor,1484,True
+cell0259,Pre-pDC,Pre-pDC,dc_precursor,953,True
+cell0260,Pre-pDC,Pre-pDC,dc_precursor,2953,True
+cell0261,Pre-pDC,Pre-pDC,dc_precursor,6179,True
+cell0262,Pre-pDC,Pre-pDC,dc_precursor,2082,True
+cell0263,Pre-pDC,Pre-pDC,dc_precursor,1588,True
+cell0264,Pre-pDC,Pre-pDC,dc_precursor,2071,True
+cell0265,Pre-pDC,Pre-pDC,dc_precursor,1793,True
+cell0266,Pre-pDC,Pre-pDC,dc_precursor,1066,True
+cell0267,Pre-pDC,Pre-pDC,dc_precursor,1502,True
+cell0268,Pre-pDC,Pre-pDC,dc_precursor,1923,True
+cell0269,Pre-pDC,Pre-pDC,dc_precursor,3300,True
+cell0270,Pre-pDC,Pre-pDC,dc_precursor,1866,True
+cell0271,Pre-pDC,Pre-pDC,dc_precursor,4906,True
+cell0272,Pre-pDC,Pre-pDC,dc_precursor,1788,True
+cell0273,Pre-pDC,Pre-pDC,dc_precursor,1820,True
+cell0274,Pre-pDC,Pre-pDC,dc_precursor,1758,True
+cell0275,Pre-pDC,Pre-pDC,dc_precursor,319,False
+cell0276,Pre-pDC,Pre-pDC,dc_precursor,2247,True
+cell0277,Pre-pDC,Pre-pDC,dc_precursor,2693,True
+cell0278,Pre-pDC,Pre-pDC,dc_precursor,1928,True
+cell0279,Pre-pDC,Pre-pDC,dc_precursor,1004,True
+cell0280,Early ProMono,Early ProMono,monocyte_precursor,1465,True
+cell0281,Early ProMono,Early ProMono,monocyte_precursor,1937,True
+cell0282,Early ProMono,Early ProMono,monocyte_precursor,2346,True
+cell0283,Early ProMono,Early ProMono,monocyte_precursor,1273,True
+cell0284,Early ProMono,Early ProMono,monocyte_precursor,1891,True
+cell0285,Early ProMono,Early ProMono,monocyte_precursor,2528,True
+cell0286,Early ProMono,Early ProMono,monocyte_precursor,1491,True
+cell0287,Early ProMono,Early ProMono,monocyte_precursor,3783,True
+cell0288,Early ProMono,Early ProMono,monocyte_precursor,2148,True
+cell0289,Early ProMono,Early ProMono,monocyte_precursor,1958,True
+cell0290,Early ProMono,Early ProMono,monocyte_precursor,2314,True
+cell0291,Early ProMono,Early ProMono,monocyte_precursor,1414,True
+cell0292,Early ProMono,Early ProMono,monocyte_precursor,691,True
+cell0293,Early ProMono,Early ProMono,monocyte_precursor,796,True
+cell0294,Early ProMono,Early ProMono,monocyte_precursor,2580,True
+cell0295,Early ProMono,Early ProMono,monocyte_precursor,1034,True
+cell0296,Early ProMono,Early ProMono,monocyte_precursor,2288,True
+cell0297,Early ProMono,Early ProMono,monocyte_precursor,2283,True
+cell0298,Early ProMono,Early ProMono,monocyte_precursor,2148,True
+cell0299,Early ProMono,Early ProMono,monocyte_precursor,726,True
+cell0300,Early ProMono,Early ProMono,monocyte_precursor,628,True
+cell0301,Early ProMono,Early ProMono,monocyte_precursor,2585,True
+cell0302,Early ProMono,Early ProMono,monocyte_precursor,1200,True
+cell0303,Early ProMono,Early ProMono,monocyte_precursor,1128,True
+cell0304,Early ProMono,Early ProMono,monocyte_precursor,5315,True
+cell0305,Early ProMono,Early ProMono,monocyte_precursor,855,True
+cell0306,Early ProMono,Early ProMono,monocyte_precursor,1282,True
+cell0307,Early ProMono,Early ProMono,monocyte_precursor,400,False
+cell0308,Early ProMono,Early ProMono,monocyte_precursor,911,True
+cell0309,Early ProMono,Early ProMono,monocyte_precursor,1105,True
+cell0310,Early ProMono,Early ProMono,monocyte_precursor,1386,True
+cell0311,Early ProMono,Early ProMono,monocyte_precursor,1489,True
+cell0312,Early ProMono,Early ProMono,monocyte_precursor,3382,True
+cell0313,Early ProMono,Early ProMono,monocyte_precursor,3188,True
+cell0314,Early ProMono,Early ProMono,monocyte_precursor,1004,True
+cell0315,Early ProMono,Early ProMono,monocyte_precursor,1929,True
+cell0316,Early ProMono,Early ProMono,monocyte_precursor,2064,True
+cell0317,Early ProMono,Early ProMono,monocyte_precursor,3208,True
+cell0318,Early ProMono,Early ProMono,monocyte_precursor,312,False
+cell0319,Early ProMono,Early ProMono,monocyte_precursor,986,True
+cell0320,Early ProMono,Early ProMono,monocyte_precursor,3785,True
+cell0321,Early ProMono,Early ProMono,monocyte_precursor,3071,True
+cell0322,Early ProMono,Early ProMono,monocyte_precursor,2364,True
+cell0323,Early ProMono,Early ProMono,monocyte_precursor,1808,True
+cell0324,Early ProMono,Early ProMono,monocyte_precursor,3959,True
+cell0325,Early ProMono,Early ProMono,monocyte_precursor,1959,True
+cell0326,Early ProMono,Early ProMono,monocyte_precursor,1135,True
+cell0327,Early ProMono,Early ProMono,monocyte_precursor,854,True
+cell0328,Early ProMono,Early ProMono,monocyte_precursor,1082,True
+cell0329,Early ProMono,Early ProMono,monocyte_precursor,214,False
+cell0330,Early ProMono,Early ProMono,monocyte_precursor,1772,True
+cell0331,Early ProMono,Early ProMono,monocyte_precursor,1433,True
+cell0332,Early ProMono,Early ProMono,monocyte_precursor,3339,True
+cell0333,Early ProMono,Early ProMono,monocyte_precursor,1076,True
+cell0334,Early ProMono,Early ProMono,monocyte_precursor,1651,True
+cell0335,Early ProMono,Early ProMono,monocyte_precursor,4210,True
+cell0336,Early ProMono,Early ProMono,monocyte_precursor,831,True
+cell0337,Early ProMono,Early ProMono,monocyte_precursor,1256,True
+cell0338,Early ProMono,Early ProMono,monocyte_precursor,7370,True
+cell0339,Early ProMono,Early ProMono,monocyte_precursor,1308,True
+cell0340,Early ProMono,Early ProMono,monocyte_precursor,1247,True
+cell0341,Early ProMono,Early ProMono,monocyte_precursor,1485,True
+cell0342,Early ProMono,Early ProMono,monocyte_precursor,1288,True
+cell0343,Early ProMono,Early ProMono,monocyte_precursor,2066,True
+cell0344,Early ProMono,Early ProMono,monocyte_precursor,1379,True
+cell0345,Early ProMono,Early ProMono,monocyte_precursor,744,True
+cell0346,Early ProMono,Early ProMono,monocyte_precursor,1908,True
+cell0347,Early ProMono,Early ProMono,monocyte_precursor,1032,True
+cell0348,Early ProMono,Early ProMono,monocyte_precursor,3322,True
+cell0349,Early ProMono,Early ProMono,monocyte_precursor,798,True
+cell0350,Late ProMono,Late ProMono,monocyte_precursor,3873,True
+cell0351,Late ProMono,Late ProMono,monocyte_precursor,1960,True
+cell0352,Late ProMono,Late ProMono,monocyte_precursor,2703,True
+cell0353,Late ProMono,Late ProMono,monocyte_precursor,2751,True
+cell0354,Late ProMono,Late ProMono,monocyte_precursor,1142,True
+cell0355,Late ProMono,Late ProMono,monocyte_precursor,905,True
+cell0356,Late ProMono,Late ProMono,monocyte_precursor,3523,True
+cell0357,Late ProMono,Late ProMono,monocyte_precursor,1451,True
+cell0358,Late ProMono,Late ProMono,monocyte_precursor,760,True
+cell0359,Late ProMono,Late ProMono,monocyte_precursor,1633,True
+cell0360,Late ProMono,Late ProMono,monocyte_precursor,2775,True
+cell0361,Late ProMono,Late ProMono,monocyte_precursor,1214,True
+cell0362,Late ProMono,Late ProMono,monocyte_precursor,1751,True
+cell0363,Late ProMono,Late ProMono,monocyte_precursor,3702,True
+cell0364,Late ProMono,Late ProMono,monocyte_precursor,6226,True
+cell0365,Late ProMono,Late ProMono,monocyte_precursor,1438,True
+cell0366,Late ProMono,Late ProMono,monocyte_precursor,942,True
+cell0367,Late ProMono,Late ProMono,monocyte_precursor,1357,True
+cell0368,Late ProMono,Late ProMono,monocyte_precursor,3223,True
+cell0369,Late ProMono,Late ProMono,monocyte_precursor,2616,True
+cell0370,Late ProMono,Late ProMono,monocyte_precursor,1294,True
+cell0371,Late ProMono,Late ProMono,monocyte_precursor,822,True
+cell0372,Late ProMono,Late ProMono,monocyte_precursor,1048,True
+cell0373,Late ProMono,Late ProMono,monocyte_precursor,1264,True
+cell0374,Late ProMono,Late ProMono,monocyte_precursor,3028,True
+cell0375,Late ProMono,Late ProMono,monocyte_precursor,847,True
+cell0376,Late ProMono,Late ProMono,monocyte_precursor,1161,True
+cell0377,Late ProMono,Late ProMono,monocyte_precursor,1596,True
+cell0378,Late ProMono,Late ProMono,monocyte_precursor,3183,True
+cell0379,Late ProMono,Late ProMono,monocyte_precursor,4099,True
+cell0380,Late ProMono,Late ProMono,monocyte_precursor,2261,True
+cell0381,Late ProMono,Late ProMono,monocyte_precursor,6280,True
+cell0382,Late ProMono,Late ProMono,monocyte_precursor,1519,True
+cell0383,Late ProMono,Late ProMono,monocyte_precursor,3321,True
+cell0384,Late ProMono,Late ProMono,monocyte_precursor,3598,True
+cell0385,Late ProMono,Late ProMono,monocyte_precursor,1977,True
+cell0386,Late ProMono,Late ProMono,monocyte_precursor,1074,True
+cell0387,Late ProMono,Late ProMono,monocyte_precursor,2399,True
+cell0388,Late ProMono,Late ProMono,monocyte_precursor,2664,True
+cell0389,Late ProMono,Late ProMono,monocyte_precursor,1139,True
+cell0390,Late ProMono,Late ProMono,monocyte_precursor,856,True
+cell0391,Late ProMono,Late ProMono,monocyte_precursor,3240,True
+cell0392,Late ProMono,Late ProMono,monocyte_precursor,1079,True
+cell0393,Late ProMono,Late ProMono,monocyte_precursor,572,True
+cell0394,Late ProMono,Late ProMono,monocyte_precursor,2081,True
+cell0395,Late ProMono,Late ProMono,monocyte_precursor,1088,True
+cell0396,Late ProMono,Late ProMono,monocyte_precursor,1103,True
+cell0397,Late ProMono,Late ProMono,monocyte_precursor,1258,True
+cell0398,Late ProMono,Late ProMono,monocyte_precursor,2508,True
+cell0399,Late ProMono,Late ProMono,monocyte_precursor,956,True
+cell0400,Late ProMono,Late ProMono,monocyte_precursor,2644,True
+cell0401,Late ProMono,Late ProMono,monocyte_precursor,2150,True
+cell0402,Late ProMono,Late ProMono,monocyte_precursor,1244,True
+cell0403,Late ProMono,Late ProMono,monocyte_precursor,2140,True
+cell0404,Late ProMono,Late ProMono,monocyte_precursor,783,True
+cell0405,Late ProMono,Late ProMono,monocyte_precursor,1131,True
+cell0406,Late ProMono,Late ProMono,monocyte_precursor,1958,True
+cell0407,Late ProMono,Late ProMono,monocyte_precursor,2619,True
+cell0408,Late ProMono,Late ProMono,monocyte_precursor,1172,True
+cell0409,Late ProMono,Late ProMono,monocyte_precursor,321,False
+cell0410,Late ProMono,Late ProMono,monocyte_precursor,627,True
+cell0411,Late ProMono,Late ProMono,monocyte_precursor,502,True
+cell0412,Late ProMono,Late ProMono,monocyte_precursor,2460,True
+cell0413,Late ProMono,Late ProMono,monocyte_precursor,1151,True
+cell0414,Late ProMono,Late ProMono,monocyte_precursor,481,False
+cell0415,Late ProMono,Late ProMono,monocyte_precursor,1426,True
+cell0416,Late ProMono,Late ProMono,monocyte_precursor,1067,True
+cell0417,Late ProMono,Late ProMono,monocyte_precursor,2889,True
+cell0418,Late ProMono,Late ProMono,monocyte_precursor,1079,True
+cell0419,Late ProMono,Late ProMono,monocyte_precursor,1132,True
+cell0420,CD14 Mono,CD14 Mono,mature_mnp,1562,True
+cell0421,CD14 Mono,CD14 Mono,mature_mnp,1377,True
+cell0422,CD14 Mono,CD14 Mono,mature_mnp,2191,True
+cell0423,CD14 Mono,CD14 Mono,mature_mnp,2615,True
+cell0424,CD14 Mono,CD14 Mono,mature_mnp,2657,True
+cell0425,CD14 Mono,CD14 Mono,mature_mnp,2124,True
+cell0426,CD14 Mono,CD14 Mono,mature_mnp,1900,True
+cell0427,CD14 Mono,CD14 Mono,mature_mnp,593,True
+cell0428,CD14 Mono,CD14 Mono,mature_mnp,1972,True
+cell0429,CD14 Mono,CD14 Mono,mature_mnp,2724,True
+cell0430,CD14 Mono,CD14 Mono,mature_mnp,1150,True
+cell0431,CD14 Mono,CD14 Mono,mature_mnp,3537,True
+cell0432,CD14 Mono,CD14 Mono,mature_mnp,965,True
+cell0433,CD14 Mono,CD14 Mono,mature_mnp,503,True
+cell0434,CD14 Mono,CD14 Mono,mature_mnp,323,False
+cell0435,CD14 Mono,CD14 Mono,mature_mnp,2337,True
+cell0436,CD14 Mono,CD14 Mono,mature_mnp,1519,True
+cell0437,CD14 Mono,CD14 Mono,mature_mnp,1039,True
+cell0438,CD14 Mono,CD14 Mono,mature_mnp,2180,True
+cell0439,CD14 Mono,CD14 Mono,mature_mnp,1091,True
+cell0440,CD14 Mono,CD14 Mono,mature_mnp,1388,True
+cell0441,CD14 Mono,CD14 Mono,mature_mnp,447,False
+cell0442,CD14 Mono,CD14 Mono,mature_mnp,1739,True
+cell0443,CD14 Mono,CD14 Mono,mature_mnp,1554,True
+cell0444,CD14 Mono,CD14 Mono,mature_mnp,3844,True
+cell0445,CD14 Mono,CD14 Mono,mature_mnp,1731,True
+cell0446,CD14 Mono,CD14 Mono,mature_mnp,2334,True
+cell0447,CD14 Mono,CD14 Mono,mature_mnp,1218,True
+cell0448,CD14 Mono,CD14 Mono,mature_mnp,1490,True
+cell0449,CD14 Mono,CD14 Mono,mature_mnp,1587,True
+cell0450,CD14 Mono,CD14 Mono,mature_mnp,525,True
+cell0451,CD14 Mono,CD14 Mono,mature_mnp,1938,True
+cell0452,CD14 Mono,CD14 Mono,mature_mnp,1048,True
+cell0453,CD14 Mono,CD14 Mono,mature_mnp,1022,True
+cell0454,CD14 Mono,CD14 Mono,mature_mnp,1430,True
+cell0455,CD14 Mono,CD14 Mono,mature_mnp,2778,True
+cell0456,CD14 Mono,CD14 Mono,mature_mnp,1106,True
+cell0457,CD14 Mono,CD14 Mono,mature_mnp,1396,True
+cell0458,CD14 Mono,CD14 Mono,mature_mnp,2226,True
+cell0459,CD14 Mono,CD14 Mono,mature_mnp,1066,True
+cell0460,CD14 Mono,CD14 Mono,mature_mnp,1080,True
+cell0461,CD14 Mono,CD14 Mono,mature_mnp,2494,True
+cell0462,CD14 Mono,CD14 Mono,mature_mnp,573,True
+cell0463,CD14 Mono,CD14 Mono,mature_mnp,1613,True
+cell0464,CD14 Mono,CD14 Mono,mature_mnp,1704,True
+cell0465,CD14 Mono,CD14 Mono,mature_mnp,689,True
+cell0466,CD14 Mono,CD14 Mono,mature_mnp,3338,True
+cell0467,CD14 Mono,CD14 Mono,mature_mnp,828,True
+cell0468,CD14 Mono,CD14 Mono,mature_mnp,1230,True
+cell0469,CD14 Mono,CD14 Mono,mature_mnp,1779,True
+cell0470,CD14 Mono,CD14 Mono,mature_mnp,1236,True
+cell0471,CD14 Mono,CD14 Mono,mature_mnp,1791,True
+cell0472,CD14 Mono,CD14 Mono,mature_mnp,1793,True
+cell0473,CD14 Mono,CD14 Mono,mature_mnp,4273,True
+cell0474,CD14 Mono,CD14 Mono,mature_mnp,1646,True
+cell0475,CD14 Mono,CD14 Mono,mature_mnp,2925,True
+cell0476,CD14 Mono,CD14 Mono,mature_mnp,1382,True
+cell0477,CD14 Mono,CD14 Mono,mature_mnp,3856,True
+cell0478,CD14 Mono,CD14 Mono,mature_mnp,2987,True
+cell0479,CD14 Mono,CD14 Mono,mature_mnp,1128,True
+cell0480,CD14 Mono,CD14 Mono,mature_mnp,1180,True
+cell0481,CD14 Mono,CD14 Mono,mature_mnp,1622,True
+cell0482,CD14 Mono,CD14 Mono,mature_mnp,2415,True
+cell0483,CD14 Mono,CD14 Mono,mature_mnp,1007,True
+cell0484,CD14 Mono,CD14 Mono,mature_mnp,5071,True
+cell0485,CD14 Mono,CD14 Mono,mature_mnp,727,True
+cell0486,CD14 Mono,CD14 Mono,mature_mnp,243,False
+cell0487,CD14 Mono,CD14 Mono,mature_mnp,995,True
+cell0488,CD14 Mono,CD14 Mono,mature_mnp,888,True
+cell0489,CD14 Mono,CD14 Mono,mature_mnp,1095,True
+cell0490,CD14 Mono,CD14 Mono,mature_mnp,708,True
+cell0491,CD14 Mono,CD14 Mono,mature_mnp,1264,True
+cell0492,CD14 Mono,CD14 Mono,mature_mnp,2033,True
+cell0493,CD14 Mono,CD14 Mono,mature_mnp,2023,True
+cell0494,CD14 Mono,CD14 Mono,mature_mnp,1620,True
+cell0495,CD14 Mono,CD14 Mono,mature_mnp,1470,True
+cell0496,CD14 Mono,CD14 Mono,mature_mnp,1041,True
+cell0497,CD14 Mono,CD14 Mono,mature_mnp,1689,True
+cell0498,CD14 Mono,CD14 Mono,mature_mnp,2310,True
+cell0499,CD14 Mono,CD14 Mono,mature_mnp,1505,True
+cell0500,CD14 Mono,CD14 Mono,mature_mnp,2757,True
+cell0501,CD14 Mono,CD14 Mono,mature_mnp,2222,True
+cell0502,CD14 Mono,CD14 Mono,mature_mnp,588,True
+cell0503,CD14 Mono,CD14 Mono,mature_mnp,1538,True
+cell0504,CD14 Mono,CD14 Mono,mature_mnp,855,True
+cell0505,CD14 Mono,CD14 Mono,mature_mnp,1032,True
+cell0506,CD14 Mono,CD14 Mono,mature_mnp,1780,True
+cell0507,CD14 Mono,CD14 Mono,mature_mnp,2447,True
+cell0508,CD14 Mono,CD14 Mono,mature_mnp,2524,True
+cell0509,CD14 Mono,CD14 Mono,mature_mnp,1265,True
+cell0510,CD14 Mono,CD14 Mono,mature_mnp,5314,True
+cell0511,CD14 Mono,CD14 Mono,mature_mnp,4388,True
+cell0512,CD14 Mono,CD14 Mono,mature_mnp,1400,True
+cell0513,CD14 Mono,CD14 Mono,mature_mnp,1939,True
+cell0514,CD14 Mono,CD14 Mono,mature_mnp,5196,True
+cell0515,CD14 Mono,CD14 Mono,mature_mnp,1621,True
+cell0516,CD14 Mono,CD14 Mono,mature_mnp,1333,True
+cell0517,CD14 Mono,CD14 Mono,mature_mnp,1393,True
+cell0518,CD14 Mono,CD14 Mono,mature_mnp,2614,True
+cell0519,CD14 Mono,CD14 Mono,mature_mnp,1426,True
+cell0520,cDC2,cDC2,mature_mnp,2432,True
+cell0521,cDC2,cDC2,mature_mnp,1349,True
+cell0522,cDC2,cDC2,mature_mnp,2161,True
+cell0523,cDC2,cDC2,mature_mnp,1356,True
+cell0524,cDC2,cDC2,mature_mnp,1823,True
+cell0525,cDC2,cDC2,mature_mnp,2064,True
+cell0526,cDC2,cDC2,mature_mnp,2416,True
+cell0527,cDC2,cDC2,mature_mnp,2204,True
+cell0528,cDC2,cDC2,mature_mnp,3217,True
+cell0529,cDC2,cDC2,mature_mnp,770,True
+cell0530,cDC2,cDC2,mature_mnp,526,True
+cell0531,cDC2,cDC2,mature_mnp,3089,True
+cell0532,cDC2,cDC2,mature_mnp,1745,True
+cell0533,cDC2,cDC2,mature_mnp,5068,True
+cell0534,cDC2,cDC2,mature_mnp,683,True
+cell0535,cDC2,cDC2,mature_mnp,473,False
+cell0536,cDC2,cDC2,mature_mnp,2574,True
+cell0537,cDC2,cDC2,mature_mnp,967,True
+cell0538,cDC2,cDC2,mature_mnp,4035,True
+cell0539,cDC2,cDC2,mature_mnp,2032,True
+cell0540,cDC2,cDC2,mature_mnp,2413,True
+cell0541,cDC2,cDC2,mature_mnp,3057,True
+cell0542,cDC2,cDC2,mature_mnp,4544,True
+cell0543,cDC2,cDC2,mature_mnp,1130,True
+cell0544,cDC2,cDC2,mature_mnp,1641,True
+cell0545,cDC2,cDC2,mature_mnp,953,True
+cell0546,cDC2,cDC2,mature_mnp,5693,True
+cell0547,cDC2,cDC2,mature_mnp,2968,True
+cell0548,cDC2,cDC2,mature_mnp,2006,True
+cell0549,cDC2,cDC2,mature_mnp,1274,True
+cell0550,cDC2,cDC2,mature_mnp,1738,True
+cell0551,cDC2,cDC2,mature_mnp,7506,True
+cell0552,cDC2,cDC2,mature_mnp,2671,True
+cell0553,cDC2,cDC2,mature_mnp,1343,True
+cell0554,cDC2,cDC2,mature_mnp,702,True
+cell0555,cDC2,cDC2,mature_mnp,1167,True
+cell0556,cDC2,cDC2,mature_mnp,600,True
+cell0557,cDC2,cDC2,mature_mnp,1806,True
+cell0558,cDC2,cDC2,mature_mnp,2737,True
+cell0559,cDC2,cDC2,mature_mnp,3714,True
+cell0560,cDC2,cDC2,mature_mnp,2291,True
+cell0561,cDC2,cDC2,mature_mnp,784,True
+cell0562,cDC2,cDC2,mature_mnp,1330,True
+cell0563,cDC2,cDC2,mature_mnp,2156,True
+cell0564,cDC2,cDC2,mature_mnp,646,True
+cell0565,cDC2,cDC2,mature_mnp,1738,True
+cell0566,cDC2,cDC2,mature_mnp,531,True
+cell0567,cDC2,cDC2,mature_mnp,685,True
+cell0568,cDC2,cDC2,mature_mnp,1999,True
+cell0569,cDC2,cDC2,mature_mnp,905,True
+cell0570,CD4 Naive,CD4 Naive,other,532,True
+cell0571,CD4 Naive,CD4 Naive,other,1426,True
+cell0572,CD4 Naive,CD4 Naive,other,3873,True
+cell0573,CD4 Naive,CD4 Naive,other,1063,True
+cell0574,CD4 Naive,CD4 Naive,other,1812,True
+cell0575,CD4 Naive,CD4 Naive,other,867,True
+cell0576,CD4 Naive,CD4 Naive,other,2891,True
+cell0577,CD4 Naive,CD4 Naive,other,748,True
+cell0578,CD4 Naive,CD4 Naive,other,739,True
+cell0579,CD4 Naive,CD4 Naive,other,2366,True
+cell0580,CD4 Naive,CD4 Naive,other,998,True
+cell0581,CD4 Naive,CD4 Naive,other,1550,True
+cell0582,CD4 Naive,CD4 Naive,other,4961,True
+cell0583,CD4 Naive,CD4 Naive,other,1796,True
+cell0584,CD4 Naive,CD4 Naive,other,986,True
+cell0585,CD4 Naive,CD4 Naive,other,1992,True
+cell0586,CD4 Naive,CD4 Naive,other,1844,True
+cell0587,CD4 Naive,CD4 Naive,other,2942,True
+cell0588,CD4 Naive,CD4 Naive,other,5022,True
+cell0589,CD4 Naive,CD4 Naive,other,1159,True
+cell0590,CD4 Naive,CD4 Naive,other,884,True
+cell0591,CD4 Naive,CD4 Naive,other,1661,True
+cell0592,CD4 Naive,CD4 Naive,other,3342,True
+cell0593,CD4 Naive,CD4 Naive,other,6875,True
+cell0594,CD4 Naive,CD4 Naive,other,1641,True
+cell0595,CD4 Naive,CD4 Naive,other,1679,True
+cell0596,CD4 Naive,CD4 Naive,other,2380,True
+cell0597,CD4 Naive,CD4 Naive,other,1069,True
+cell0598,CD4 Naive,CD4 Naive,other,2192,True
+cell0599,CD4 Naive,CD4 Naive,other,1312,True
+cell0600,CD4 Naive,CD4 Naive,other,1056,True
+cell0601,CD4 Naive,CD4 Naive,other,3425,True
+cell0602,CD4 Naive,CD4 Naive,other,3908,True
+cell0603,CD4 Naive,CD4 Naive,other,1583,True
+cell0604,CD4 Naive,CD4 Naive,other,873,True
+cell0605,CD4 Naive,CD4 Naive,other,1984,True
+cell0606,CD4 Naive,CD4 Naive,other,1777,True
+cell0607,CD4 Naive,CD4 Naive,other,714,True
+cell0608,CD4 Naive,CD4 Naive,other,1138,True
+cell0609,CD4 Naive,CD4 Naive,other,5560,True
+cell0610,CD4 Naive,CD4 Naive,other,970,True
+cell0611,CD4 Naive,CD4 Naive,other,1256,True
+cell0612,CD4 Naive,CD4 Naive,other,1534,True
+cell0613,CD4 Naive,CD4 Naive,other,1716,True
+cell0614,CD4 Naive,CD4 Naive,other,1612,True
+cell0615,CD4 Naive,CD4 Naive,other,1321,True
+cell0616,CD4 Naive,CD4 Naive,other,251,False
+cell0617,CD4 Naive,CD4 Naive,other,1185,True
+cell0618,CD4 Naive,CD4 Naive,other,1302,True
+cell0619,CD4 Naive,CD4 Naive,other,2565,True
+cell0620,CD4 Naive,CD4 Naive,other,1157,True
+cell0621,CD4 Naive,CD4 Naive,other,685,True
+cell0622,CD4 Naive,CD4 Naive,other,5578,True
+cell0623,CD4 Naive,CD4 Naive,other,3637,True
+cell0624,CD4 Naive,CD4 Naive,other,996,True
+cell0625,CD4 Naive,CD4 Naive,other,996,True
+cell0626,CD4 Naive,CD4 Naive,other,626,True
+cell0627,CD4 Naive,CD4 Naive,other,4910,True
+cell0628,CD4 Naive,CD4 Naive,other,1495,True
+cell0629,CD4 Naive,CD4 Naive,other,1780,True
+cell0630,Erythroblast,Orthochromatic Erythroblast,other,2737,True
+cell0631,Erythroblast,Orthochromatic Erythroblast,other,1154,True
+cell0632,Erythroblast,Orthochromatic Erythroblast,other,2014,True
+cell0633,Erythroblast,Orthochromatic Erythroblast,other,1368,True
+cell0634,Erythroblast,Orthochromatic Erythroblast,other,519,True
+cell0635,Erythroblast,Orthochromatic Erythroblast,other,1392,True
+cell0636,Erythroblast,Orthochromatic Erythroblast,other,2054,True
+cell0637,Erythroblast,Orthochromatic Erythroblast,other,5348,True
+cell0638,Erythroblast,Orthochromatic Erythroblast,other,4461,True
+cell0639,Erythroblast,Orthochromatic Erythroblast,other,3384,True
+cell0640,Erythroblast,Orthochromatic Erythroblast,other,3283,True
+cell0641,Erythroblast,Orthochromatic Erythroblast,other,429,False
+cell0642,Erythroblast,Orthochromatic Erythroblast,other,1157,True
+cell0643,Erythroblast,Orthochromatic Erythroblast,other,2352,True
+cell0644,Erythroblast,Orthochromatic Erythroblast,other,1084,True
+cell0645,Erythroblast,Orthochromatic Erythroblast,other,4144,True
+cell0646,Erythroblast,Orthochromatic Erythroblast,other,6589,True
+cell0647,Erythroblast,Orthochromatic Erythroblast,other,638,True
+cell0648,Erythroblast,Orthochromatic Erythroblast,other,951,True
+cell0649,Erythroblast,Orthochromatic Erythroblast,other,570,True
+cell0650,Erythroblast,Orthochromatic Erythroblast,other,5649,True
+cell0651,Erythroblast,Orthochromatic Erythroblast,other,1169,True
+cell0652,Erythroblast,Orthochromatic Erythroblast,other,1620,True
+cell0653,Erythroblast,Orthochromatic Erythroblast,other,1054,True
+cell0654,Erythroblast,Orthochromatic Erythroblast,other,631,True
+cell0655,Erythroblast,Orthochromatic Erythroblast,other,2514,True
+cell0656,Erythroblast,Orthochromatic Erythroblast,other,1235,True
+cell0657,Erythroblast,Orthochromatic Erythroblast,other,2135,True
+cell0658,Erythroblast,Orthochromatic Erythroblast,other,1000,True
+cell0659,Erythroblast,Orthochromatic Erythroblast,other,2840,True
+cell0660,Erythroblast,Orthochromatic Erythroblast,other,1294,True
+cell0661,Erythroblast,Orthochromatic Erythroblast,other,1192,True
+cell0662,Erythroblast,Orthochromatic Erythroblast,other,1786,True
+cell0663,Erythroblast,Orthochromatic Erythroblast,other,761,True
+cell0664,Erythroblast,Orthochromatic Erythroblast,other,1145,True
+cell0665,Erythroblast,Orthochromatic Erythroblast,other,625,True
+cell0666,Erythroblast,Orthochromatic Erythroblast,other,373,False
+cell0667,Erythroblast,Orthochromatic Erythroblast,other,736,True
+cell0668,Erythroblast,Orthochromatic Erythroblast,other,5457,True
+cell0669,Erythroblast,Orthochromatic Erythroblast,other,961,True
+cell0670,Not in reference,none,not_in_reference,1984,True
+cell0671,Not in reference,none,not_in_reference,1413,True
+cell0672,Not in reference,none,not_in_reference,909,True
+cell0673,Not in reference,none,not_in_reference,4461,True
+cell0674,Not in reference,none,not_in_reference,2555,True
+cell0675,Not in reference,none,not_in_reference,2073,True
+cell0676,Not in reference,none,not_in_reference,1655,True
+cell0677,Not in reference,none,not_in_reference,3726,True
+cell0678,Not in reference,none,not_in_reference,2535,True
+cell0679,Not in reference,none,not_in_reference,3523,True
+cell0680,Not in reference,none,not_in_reference,1102,True
+cell0681,Not in reference,none,not_in_reference,3772,True
+cell0682,Not in reference,none,not_in_reference,830,True
+cell0683,Not in reference,none,not_in_reference,2068,True
+cell0684,Not in reference,none,not_in_reference,532,True
+cell0685,Not in reference,none,not_in_reference,1005,True
+cell0686,Not in reference,none,not_in_reference,905,True
+cell0687,Not in reference,none,not_in_reference,519,True
+cell0688,Not in reference,none,not_in_reference,2510,True
+cell0689,Not in reference,none,not_in_reference,1635,True
+cell0690,Not in reference,none,not_in_reference,1005,True
+cell0691,Not in reference,none,not_in_reference,1540,True
+cell0692,Not in reference,none,not_in_reference,1246,True
+cell0693,Not in reference,none,not_in_reference,3117,True
+cell0694,Not in reference,none,not_in_reference,4756,True
+cell0695,Not in reference,none,not_in_reference,6920,True
+cell0696,Not in reference,none,not_in_reference,814,True
+cell0697,Not in reference,none,not_in_reference,1281,True
+cell0698,Not in reference,none,not_in_reference,3921,True
+cell0699,Not in reference,none,not_in_reference,788,True
+cell0700,Not in reference,none,not_in_reference,1220,True
+cell0701,Not in reference,none,not_in_reference,3089,True
+cell0702,Not in reference,none,not_in_reference,989,True
+cell0703,Not in reference,none,not_in_reference,1354,True
+cell0704,Not in reference,none,not_in_reference,3962,True
+cell0705,Not in reference,none,not_in_reference,1126,True
+cell0706,Not in reference,none,not_in_reference,2649,True
+cell0707,Not in reference,none,not_in_reference,1185,True
+cell0708,Not in reference,none,not_in_reference,3226,True
+cell0709,Not in reference,none,not_in_reference,1896,True
+cell0710,Not in reference,none,not_in_reference,2662,True
+cell0711,Not in reference,none,not_in_reference,2307,True
+cell0712,Not in reference,none,not_in_reference,3381,True
+cell0713,Not in reference,none,not_in_reference,1718,True
+cell0714,Not in reference,none,not_in_reference,1841,True
+cell0715,Not in reference,none,not_in_reference,491,False
+cell0716,Not in reference,none,not_in_reference,2964,True
+cell0717,Not in reference,none,not_in_reference,227,False
+cell0718,Not in reference,none,not_in_reference,714,True
+cell0719,Not in reference,none,not_in_reference,1283,True
+cell0720,Not in reference,none,not_in_reference,1434,True
+cell0721,Not in reference,none,not_in_reference,1232,True
+cell0722,Not in reference,none,not_in_reference,2411,True
+cell0723,Not in reference,none,not_in_reference,969,True
+cell0724,Not in reference,none,not_in_reference,1172,True
+cell0725,Not in reference,none,not_in_reference,1395,True
+cell0726,Not in reference,none,not_in_reference,1603,True
+cell0727,Not in reference,none,not_in_reference,1398,True
+cell0728,Not in reference,none,not_in_reference,340,False
+cell0729,Not in reference,none,not_in_reference,6817,True

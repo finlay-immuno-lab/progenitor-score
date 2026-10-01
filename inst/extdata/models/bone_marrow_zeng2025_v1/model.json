@@ -1,0 +1,30 @@
+{
+ "model_id": "bone_marrow_zeng2025_v1",
+ "rules_version": "progenitor_rules_v1",
+ "n_states": 55,
+ "n_genes": 2997,
+ "normalisation": "log1p(CP10k) computed over the model genes present in the query; scale (x-mean)/scale; clip above 10; decision = scaled @ coef.T + intercept",
+ "source": "Zeng et al. Blood Cancer Discov 2025;6:307-24 (BoneMarrowMap); https://github.com/andygxzeng/BoneMarrowMap",
+ "licence_data": "derived from CC-BY paper data; attribute Zeng et al. 2025",
+ "training": {
+  "date": "2026-09-30",
+  "details": "BoneMarrowMap 55 states, 58908 cells (cap 300 per state x study), 2997 genes (BM HVGs + Supp S2 markers); logistic regression",
+  "url": "https://github.com/andygxzeng/BoneMarrowMap",
+  "source": "Zeng et al. Blood Cancer Discov 2025;6:307",
+  "version": "v1",
+  "number_celltypes": 55
+ },
+ "celltypist_version": "1.7.1",
+ "source_pickle_sha256": "52268a875154321ccd12c9a697231d7c334e2f219e73d5d0725f5143844aeb56",
+ "default_thresholds": {
+  "min_margin": 100.0,
+  "min_top1": 0.0
+ },
+ "files": {
+  "coef.csv.gz": "b662063859f86fc390d39a0cd91d3cfb6e467a71f154b69ee90ea0faa3c5d130",
+  "scaler.csv": "820231e6cff5ba86648e465461de827609fde0756e216b3c3512f3b0d238eb1d",
+  "states.csv": "a2ca51eb5b2e9d035a0f8737dcd6e0622f46de15730eb87b45efe6bbd202bb15"
+ },
+ "attribution": "Model weights derived from the BoneMarrowMap atlas: Zeng et al. Blood Cancer Discov 2025;6:307-24, doi:10.1158/2643-3230.BCD-24-0342. Trained by the Conor Finlay Lab, Trinity College Dublin.",
+ "licence": "CC BY-NC 4.0 (see LICENSE-MODEL.md)"
+}

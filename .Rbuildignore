@@ -1,0 +1,11 @@
+^src$
+^tests$
+^training$
+^docs$
+^pyproject\.toml$
+^\.gitignore$
+^MODEL_CARD\.md$
+^CITATION\.cff$
+^\.github$
+^examples$
+^MANIFEST\.in$

@@ -1,0 +1,56 @@
+state,broad,full_name,n_test,heldout_recall,heldout_precision,group,proposed_decision,note
+HSC,HSC MPP,Hematopoietic Stem Cell,300,0.97,0.449074074074074,multipotent,review,review
+MPP-MkEry,HSC MPP,Multipotent Progenitor - Megakaryocyte-Erythroid Primed,300,0.4866666666666667,0.4451219512195122,multipotent,review,review
+MPP-MyLy,HSC MPP,Multipotent Progenitor - Myelo-Lymphoid Primed,300,0.2866666666666667,0.4174757281553398,multipotent,review,review
+MEP,MEP,Megakaryocyte-Erythroid Progenitor,300,0.7833333333333333,0.6619718309859155,other,out,
+BFU-E,MEP,Burst Forming Unit - Erythroid,300,0.7433333333333333,0.5234741784037559,other,out,
+Megakaryocyte Precursor,Megakaryocyte Precursor,Megakaryocyte Precursor,300,0.7033333333333334,0.925438596491228,other,out,
+Megakaryocyte,Megakaryocyte Precursor,Megakaryocyte,14,0.2857142857142857,0.8,other,out,
+EoBasoMast Precursor,EoBasoMast Precursor,Eosinophil-Basophil-Mast Precursor,300,0.94,0.9690721649484536,other,out,
+CFU-E,Early Erythroid,Colony Forming Unit - Erythroid,300,0.6066666666666667,0.5870967741935483,other,out,
+Pro-Erythroblast,Early Erythroid,Pro-Erythroblast,300,0.5233333333333333,0.5147540983606558,other,out,
+Basophilic Erythroblast,Early Erythroid,Basophilic Erythroblast,300,0.4333333333333333,0.5777777777777777,other,out,
+Orthochromatic Erythroblast,Late Erythroid,Orthochromatic Erythroblast,300,0.7966666666666666,0.8566308243727598,other,out,
+Polychromatic Erythroblast,Late Erythroid,Polychromatic Erythroblast,300,0.7233333333333334,0.8966942148760331,other,out,
+LMPP,LMPP,Lympho-Myeloid Primed Progenitor,300,0.35,0.5329949238578681,multipotent,review,review
+Cycling Progenitor,Cycling Progenitor,Cycling Progenitor,300,0.8166666666666667,0.6621621621621622,multipotent,review,review
+Early GMP,Early GMP,Early Granulocyte-Monocyte Progenitor,300,0.6533333333333333,0.7075812274368231,myeloid_progenitor,in,progenitor call (needs margin)
+GMP-Cycle,Late GMP,Cycling Granulocyte-Monocyte Progenitor,300,0.67,0.881578947368421,myeloid_progenitor,in,progenitor call (needs margin)
+GMP-Neut,Late GMP,Neutrophil Primed Granulocyte-Monocyte Progenitor,300,0.9066666666666666,0.7640449438202247,granulocyte_primed,review,review only
+GMP-Mono,Late GMP,Monocyte Primed Granulocyte-Monocyte Progenitor,300,0.53,0.726027397260274,myeloid_progenitor,in,progenitor call (needs margin)
+Early ProMono,Pro-Monocyte,Early Pro-Monocyte,300,0.7766666666666666,0.6246648793565683,monocyte_precursor,in (monocyte continuum),not a progenitor call; blood monocytes match here
+Late ProMono,Pro-Monocyte,Late Pro-Monocyte,300,0.7766666666666666,0.768976897689769,monocyte_precursor,in (monocyte continuum),not a progenitor call; blood monocytes match here
+CD14 Mono,Monocyte,CD14 Classical Monocyte,300,0.8966666666666666,0.8328173374613003,mature_mnp,in,not a progenitor
+CD16 Mono,Monocyte,CD16 Non-Classical Monocyte,300,0.9733333333333334,0.9864864864864864,mature_mnp,in,not a progenitor
+Pre-cDC,cDC,Conventional Dendritic Cell Precursor,300,0.6866666666666666,0.7279151943462897,dc_precursor,in,progenitor call (needs margin)
+cDC2,cDC,Conventional Dendritic Cell - Type 2,300,0.8466666666666667,0.8246753246753247,mature_mnp,in,not a progenitor
+cDC1,cDC,Conventional Dendritic Cell - Type 1,119,0.8319327731092437,0.9705882352941176,mature_mnp,in,not a progenitor
+ASDC,cDC,Transitional AXL SIGLEC6 Dendritic Cell,96,0.7291666666666666,0.9210526315789472,mature_mnp,in,not a progenitor
+MLP,Early Lymphoid,Multilymphoid Progenitor,204,0.5980392156862745,0.4747081712062256,lymphoid_shared,review,review; pDC-adjacent
+CLP,Early Lymphoid,Common Lymphoid Progenitor,295,0.511864406779661,0.6371308016877637,other,out,
+Pre-ProB,Early Lymphoid,Pre-Pro-B Cell,123,0.4715447154471545,0.5979381443298969,other,out,
+MLP-II,Early Lymphoid,Multilymphoid Progenitor - II,124,0.7258064516129032,0.8256880733944955,lymphoid_shared,review,review; pDC-adjacent
+Pre-pDC,pDC,Plasmacytoid Dendritic Cell Precursor,300,0.6166666666666667,0.6654676258992805,dc_precursor,in,progenitor call (needs margin)
+Pre-pDC Cycling,pDC,Plasmacytoid Dendritic Cell Precursor - Cycling,300,0.81,0.9455252918287936,dc_precursor,in,progenitor call (needs margin)
+pDC,pDC,Plasmacytoid Dendritic Cell,300,0.9366666666666666,0.8726708074534162,mature_mnp,in,not a progenitor
+Pro-B VDJ,Pro-B,Pro-B Cell - VDJ rearranging,300,0.8166666666666667,0.7827476038338658,other,out,
+Pro-B Cycling,Pro-B,Pro-B Cell - Cycling,182,0.6263736263736264,0.9743589743589745,other,out,
+Large Pre-B,Pre-B,Large Pre-B Cell,300,0.8766666666666667,0.8737541528239202,other,out,
+Small Pre-B,Pre-B,Small Pre-B Cell,300,0.96,0.844574780058651,other,out,
+Immature B,B,Immature B Cell,279,0.6810035842293907,0.9090909090909092,other,out,
+Mature B,B,Mature B Cell,300,0.94,0.815028901734104,other,out,
+CD4 Naive,Naïve T,CD4 Naïve T Cell,300,0.8433333333333334,0.6520618556701031,other,out,
+CD8 Naive,Naïve T,CD8 Naïve T Cell,300,0.76,0.8941176470588236,other,out,
+CD4 Regulatory,CD4 Memory T,CD4 Regulatory T Cell,285,0.7403508771929824,0.9055793991416308,other,out,
+CD4 Central Memory,CD4 Memory T,CD4 Central Memory T Cell,300,0.6533333333333333,0.4734299516908212,other,out,
+CD4 Effector Memory,CD4 Memory T,CD4 Effector Memory T Cell,300,0.6833333333333333,0.7454545454545455,other,out,
+CD8 Effector Memory 1,CD8 Memory T,CD8 Effector Memory  T Cell - Type 1,300,0.82,0.6612903225806451,other,out,
+CD8 Effector Memory 2,CD8 Memory T,CD8 Effector Memory  T Cell - Type 2,300,0.66,0.7888446215139442,other,out,
+CD8 Central Memory,CD8 Memory T,CD8 Central Memory T Cell,300,0.5533333333333333,0.5824561403508772,other,out,
+CD8 Tissue Resident Memory,CD8 Memory T,CD8 Tissue Resident Memory T Cell,241,0.7551867219917012,0.8088888888888889,other,out,
+T Proliferating,CD8 Memory T,T Cell - Proliferating,85,0.8352941176470589,0.8658536585365854,other,out,
+NK,NK,Natural Killer Cell,300,0.64,0.9365853658536586,other,out,
+NK CD56high,NK,Natural Killer Cell - CD56 High,300,0.9033333333333332,0.8338461538461538,other,out,
+NK Proliferating,NK,Natural Killer Cell - Proliferating,36,0.7777777777777778,0.875,other,out,
+Plasma Cell,Plasma Cell,Plasma Cell,300,0.9966666666666668,1.0,other,out,
+Stromal,Stromal,Stromal Cell,88,0.9886363636363636,1.0,other,out,

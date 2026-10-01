@@ -1,0 +1,41 @@
+,bm_state,runner_up,top1,margin,bm_group,progenitor_call
+cell0,Orthochromatic Erythroblast,CD4 Naive,-910.2667285,251.9597123,other,not_progenitor
+cell1,CD8 Naive,Orthochromatic Erythroblast,-1182.091706,176.9899261,other,not_progenitor
+cell2,Orthochromatic Erythroblast,CD8 Naive,-1251.026436,38.71357757,other,not_progenitor
+cell3,Orthochromatic Erythroblast,CD4 Naive,50.83101556,705.6948647,other,not_progenitor
+cell4,CD8 Naive,Orthochromatic Erythroblast,-929.6679624,106.7130376,other,not_progenitor
+cell5,Orthochromatic Erythroblast,CD8 Naive,-624.053591,406.3280943,other,not_progenitor
+cell6,Mature B,Orthochromatic Erythroblast,-1191.955948,29.13069903,other,not_progenitor
+cell7,Orthochromatic Erythroblast,CD8 Effector Memory 1,-1305.624389,159.081822,other,not_progenitor
+cell8,Orthochromatic Erythroblast,CD4 Naive,-1029.042594,447.3005249,other,not_progenitor
+cell9,Orthochromatic Erythroblast,CD4 Naive,-1091.727612,63.61548307,other,not_progenitor
+cell10,,,,,,not_scored
+cell11,,,,,,not_scored
+cell12,,,,,,not_scored
+cell13,Mature B,Orthochromatic Erythroblast,-1204.747818,58.74700981,other,not_progenitor
+cell14,GMP-Mono,GMP-Neut,-395.4483287,492.318413,myeloid_progenitor,uncertain
+cell15,Orthochromatic Erythroblast,CD8 Naive,-1186.793416,273.6184242,other,not_progenitor
+cell16,Early GMP,GMP-Neut,-477.5796806,605.5340069,myeloid_progenitor,uncertain
+cell17,Early GMP,GMP-Neut,4.674139678,835.3218049,myeloid_progenitor,progenitor_in
+cell18,Pre-cDC,cDC2,-814.1686685,171.2404877,dc_precursor,uncertain
+cell19,cDC2,Pre-cDC,-856.0524452,16.40675251,mature_mnp,mature_mnp
+cell20,HSC,MPP-MyLy,567.4652596,1542.335217,multipotent,progenitor_review
+cell21,HSC,MPP-MyLy,1887.29375,2399.646028,multipotent,progenitor_review
+cell22,MLP,CLP,576.0296076,1094.720758,lymphoid_shared,progenitor_review
+cell23,MLP,CLP,834.220131,1201.441006,lymphoid_shared,progenitor_review
+cell24,GMP-Neut,GMP-Cycle,697.9010154,1755.829553,granulocyte_primed,progenitor_review
+cell25,GMP-Neut,Orthochromatic Erythroblast,-416.0545677,888.0401297,granulocyte_primed,uncertain
+cell26,Early ProMono,Late ProMono,219.6616703,394.2803959,monocyte_precursor,monocyte_precursor
+cell27,Early ProMono,Late ProMono,294.9671709,587.6276751,monocyte_precursor,monocyte_precursor
+cell28,CD14 Mono,Late ProMono,538.6172713,780.867444,mature_mnp,mature_mnp
+cell29,CD14 Mono,Late ProMono,478.0542036,943.4474872,mature_mnp,mature_mnp
+cell30,cDC2,Mature B,-650.5026107,652.7654277,mature_mnp,mature_mnp
+cell31,cDC2,CD14 Mono,33.69100611,1036.240666,mature_mnp,mature_mnp
+cell32,MLP-II,Pre-pDC,-240.5522648,530.4371297,lymphoid_shared,uncertain
+cell33,MLP-II,MLP,-243.9238063,359.720166,lymphoid_shared,uncertain
+cell34,CD4 Naive,CD8 Naive,669.6120902,658.9151474,other,not_progenitor
+cell35,CD4 Naive,CD8 Naive,324.3345637,788.9474031,other,not_progenitor
+cell36,Orthochromatic Erythroblast,CD4 Naive,-1144.446618,87.6365709,other,not_progenitor
+cell37,Orthochromatic Erythroblast,CD4 Naive,-1500.005231,1.546643895,other,not_progenitor
+cell38,Mature B,CD4 Naive,-1279.626789,13.77501116,other,not_progenitor
+cell39,Orthochromatic Erythroblast,CD4 Central Memory,-1183.546592,89.76803176,other,not_progenitor

@@ -1,0 +1,731 @@
+cell,bm_state,runner_up,top1,margin,bm_group,progenitor_call
+cell0000,HSC,MPP-MkEry,-330.4990108,126.1557511,multipotent,uncertain
+cell0001,HSC,MPP-MyLy,-56.83606535,306.0833606,multipotent,uncertain
+cell0002,HSC,MPP-MyLy,230.9104227,324.4239898,multipotent,progenitor_review
+cell0003,HSC,MPP-MkEry,-396.6664113,266.3997746,multipotent,uncertain
+cell0004,HSC,MPP-MyLy,486.2936401,685.6404412,multipotent,progenitor_review
+cell0005,HSC,MPP-MyLy,809.8886202,789.3867259,multipotent,progenitor_review
+cell0006,HSC,MPP-MyLy,219.2146079,635.1246227,multipotent,progenitor_review
+cell0007,MPP-MyLy,HSC,-464.7545503,20.99036502,multipotent,uncertain
+cell0008,HSC,MPP-MyLy,290.3193381,60.39369639,multipotent,uncertain
+cell0009,HSC,Cycling Progenitor,294.6431162,680.0040744,multipotent,progenitor_review
+cell0010,HSC,MPP-MkEry,-16.19660113,164.9209651,multipotent,uncertain
+cell0011,HSC,MPP-MkEry,113.4129875,726.837814,multipotent,progenitor_review
+cell0012,HSC,MPP-MyLy,-254.1594965,218.7489891,multipotent,uncertain
+cell0013,HSC,Cycling Progenitor,117.2198259,712.4296131,multipotent,progenitor_review
+cell0014,HSC,MPP-MyLy,146.6169979,490.3718063,multipotent,progenitor_review
+cell0015,HSC,MPP-MyLy,459.9505102,654.7469518,multipotent,progenitor_review
+cell0016,HSC,MPP-MkEry,160.0705009,116.2121682,multipotent,progenitor_review
+cell0017,LMPP,MPP-MyLy,-687.59614,31.54947757,multipotent,uncertain
+cell0018,HSC,MPP-MyLy,26.06000893,626.5302469,multipotent,progenitor_review
+cell0019,HSC,MPP-MyLy,606.4038049,763.0174466,multipotent,progenitor_review
+cell0020,HSC,MPP-MyLy,638.2878429,928.7270666,multipotent,progenitor_review
+cell0021,HSC,Cycling Progenitor,314.8607994,711.0745651,multipotent,progenitor_review
+cell0022,HSC,MPP-MkEry,-3.33362241,141.2277207,multipotent,uncertain
+cell0023,HSC,MPP-MyLy,372.6522017,474.8991183,multipotent,progenitor_review
+cell0024,HSC,MPP-MkEry,390.5495073,522.2430939,multipotent,progenitor_review
+cell0025,HSC,MPP-MyLy,361.5264492,666.3676794,multipotent,progenitor_review
+cell0026,,,,,,not_scored
+cell0027,HSC,LMPP,87.32212658,444.1410366,multipotent,progenitor_review
+cell0028,HSC,MPP-MyLy,-96.93381548,177.6883402,multipotent,uncertain
+cell0029,,,,,,not_scored
+cell0030,HSC,MPP-MyLy,2.850550181,125.9670469,multipotent,progenitor_review
+cell0031,HSC,MPP-MyLy,551.9989403,962.081615,multipotent,progenitor_review
+cell0032,HSC,MPP-MyLy,-36.20152528,466.9241039,multipotent,uncertain
+cell0033,HSC,MPP-MyLy,73.68099576,110.0985813,multipotent,progenitor_review
+cell0034,HSC,MPP-MyLy,3.820497258,155.2768527,multipotent,progenitor_review
+cell0035,MPP-MyLy,HSC,28.53391265,474.8576339,multipotent,progenitor_review
+cell0036,HSC,MPP-MyLy,46.74997211,385.0000586,multipotent,progenitor_review
+cell0037,MPP-MyLy,MPP-MkEry,-540.0618451,151.5465909,multipotent,uncertain
+cell0038,,,,,,not_scored
+cell0039,HSC,MPP-MkEry,-163.0184508,226.7223923,multipotent,uncertain
+cell0040,HSC,MPP-MkEry,-155.7792484,380.01315,multipotent,uncertain
+cell0041,HSC,MPP-MyLy,35.5237837,334.7869649,multipotent,progenitor_review
+cell0042,MPP-MyLy,HSC,-120.9159263,159.2033119,multipotent,uncertain
+cell0043,HSC,Cycling Progenitor,146.265488,504.9480748,multipotent,progenitor_review
+cell0044,HSC,MPP-MyLy,-284.5469218,41.33659238,multipotent,uncertain
+cell0045,HSC,MPP-MyLy,-366.7166303,57.61881419,multipotent,uncertain
+cell0046,HSC,MPP-MkEry,-360.960165,417.7313996,multipotent,uncertain
+cell0047,HSC,MPP-MyLy,212.3464228,388.0760924,multipotent,progenitor_review
+cell0048,HSC,MPP-MkEry,116.2301932,788.7983217,multipotent,progenitor_review
+cell0049,MPP-MyLy,HSC,-524.4050408,67.544384,multipotent,uncertain
+cell0050,Early GMP,Cycling Progenitor,-423.0146323,54.04530462,myeloid_progenitor,uncertain
+cell0051,Early GMP,LMPP,-545.2510369,129.9801684,myeloid_progenitor,uncertain
+cell0052,Early GMP,Cycling Progenitor,-670.7502614,183.7212766,myeloid_progenitor,uncertain
+cell0053,Early GMP,Cycling Progenitor,-275.9282588,380.0080759,myeloid_progenitor,uncertain
+cell0054,Early GMP,Cycling Progenitor,-293.6414557,268.4765784,myeloid_progenitor,uncertain
+cell0055,Early GMP,LMPP,-479.5351349,43.94776315,myeloid_progenitor,uncertain
+cell0056,Early GMP,Cycling Progenitor,-566.3452806,395.7495201,myeloid_progenitor,uncertain
+cell0057,Early GMP,LMPP,-825.603061,359.8653535,myeloid_progenitor,uncertain
+cell0058,Early GMP,LMPP,-265.9648941,204.0436993,myeloid_progenitor,uncertain
+cell0059,Early GMP,LMPP,-228.5465485,398.7660851,myeloid_progenitor,uncertain
+cell0060,Early GMP,LMPP,-235.8942152,317.7435792,myeloid_progenitor,uncertain
+cell0061,Early GMP,Cycling Progenitor,-195.7069789,451.5670674,myeloid_progenitor,uncertain
+cell0062,Early GMP,LMPP,-151.2563072,407.4404058,myeloid_progenitor,uncertain
+cell0063,Early GMP,LMPP,-51.60733695,250.216918,myeloid_progenitor,uncertain
+cell0064,Early GMP,LMPP,-54.33498234,479.6988681,myeloid_progenitor,uncertain
+cell0065,Early GMP,Cycling Progenitor,2.335554709,451.5597499,myeloid_progenitor,progenitor_in
+cell0066,Early GMP,LMPP,-610.4477626,269.7514262,myeloid_progenitor,uncertain
+cell0067,Early GMP,Cycling Progenitor,-454.9908643,93.9733787,myeloid_progenitor,uncertain
+cell0068,Early GMP,LMPP,-54.6362262,540.5865896,myeloid_progenitor,uncertain
+cell0069,Early GMP,LMPP,-199.2097666,245.179804,myeloid_progenitor,uncertain
+cell0070,Early GMP,Cycling Progenitor,-139.1204258,419.47309,myeloid_progenitor,uncertain
+cell0071,Early GMP,LMPP,-260.53219,245.1784398,myeloid_progenitor,uncertain
+cell0072,Early GMP,LMPP,-162.6492212,402.6813422,myeloid_progenitor,uncertain
+cell0073,Early GMP,LMPP,-248.0111944,271.3406816,myeloid_progenitor,uncertain
+cell0074,Early GMP,Cycling Progenitor,-212.1809132,259.6802009,myeloid_progenitor,uncertain
+cell0075,Early GMP,LMPP,-149.2137211,588.6662262,myeloid_progenitor,uncertain
+cell0076,Early GMP,LMPP,-443.4968408,267.9599706,myeloid_progenitor,uncertain
+cell0077,Early GMP,LMPP,-4.099059919,820.1442862,myeloid_progenitor,uncertain
+cell0078,Early GMP,Cycling Progenitor,253.6149946,445.9913051,myeloid_progenitor,progenitor_in
+cell0079,Early GMP,Cycling Progenitor,-163.8036343,765.4482656,myeloid_progenitor,uncertain
+cell0080,Early GMP,LMPP,124.9577219,639.3117903,myeloid_progenitor,progenitor_in
+cell0081,Early GMP,LMPP,-26.85072995,560.0535929,myeloid_progenitor,uncertain
+cell0082,Early GMP,Cycling Progenitor,-166.2888227,210.1375574,myeloid_progenitor,uncertain
+cell0083,Early GMP,LMPP,-489.6793585,319.36039,myeloid_progenitor,uncertain
+cell0084,Cycling Progenitor,Early GMP,-348.444582,71.01171307,multipotent,uncertain
+cell0085,Early GMP,LMPP,-280.7280101,503.1498256,myeloid_progenitor,uncertain
+cell0086,Cycling Progenitor,Early GMP,-342.5002731,117.3568238,multipotent,uncertain
+cell0087,Early GMP,Cycling Progenitor,-588.4769734,86.15745015,myeloid_progenitor,uncertain
+cell0088,Early GMP,Cycling Progenitor,-271.5542366,493.4668026,myeloid_progenitor,uncertain
+cell0089,Early GMP,LMPP,-305.0067299,256.5906365,myeloid_progenitor,uncertain
+cell0090,Early GMP,Cycling Progenitor,-633.09251,2.62964142,myeloid_progenitor,uncertain
+cell0091,,,,,,not_scored
+cell0092,Early GMP,Cycling Progenitor,-224.0487241,25.30293707,myeloid_progenitor,uncertain
+cell0093,Early GMP,Cycling Progenitor,-80.12405155,554.6258782,myeloid_progenitor,uncertain
+cell0094,Early GMP,Cycling Progenitor,-353.4963615,257.6248238,myeloid_progenitor,uncertain
+cell0095,Early GMP,LMPP,-411.1846116,104.0895714,myeloid_progenitor,uncertain
+cell0096,Early GMP,Cycling Progenitor,-263.2267868,114.9115782,myeloid_progenitor,uncertain
+cell0097,Early GMP,LMPP,-264.0900883,606.6326466,myeloid_progenitor,uncertain
+cell0098,Early GMP,LMPP,-245.3046446,453.3417989,myeloid_progenitor,uncertain
+cell0099,Early GMP,Cycling Progenitor,-368.2900143,162.1341129,myeloid_progenitor,uncertain
+cell0100,Early GMP,LMPP,-242.2776286,248.0806832,myeloid_progenitor,uncertain
+cell0101,Early GMP,Cycling Progenitor,-504.9442626,338.0228339,myeloid_progenitor,uncertain
+cell0102,Early GMP,Cycling Progenitor,-135.2844228,659.3806532,myeloid_progenitor,uncertain
+cell0103,,,,,,not_scored
+cell0104,Early GMP,Cycling Progenitor,-190.9753349,469.4915345,myeloid_progenitor,uncertain
+cell0105,Early GMP,LMPP,-153.0252491,104.7230501,myeloid_progenitor,uncertain
+cell0106,Early GMP,Cycling Progenitor,-361.3182907,406.8991479,myeloid_progenitor,uncertain
+cell0107,Early GMP,LMPP,-408.2821122,362.5489567,myeloid_progenitor,uncertain
+cell0108,Early GMP,LMPP,-484.0282546,235.6167818,myeloid_progenitor,uncertain
+cell0109,Early GMP,Cycling Progenitor,-257.4134413,340.8797911,myeloid_progenitor,uncertain
+cell0110,Early GMP,Cycling Progenitor,-668.0402179,146.1499189,myeloid_progenitor,uncertain
+cell0111,Early GMP,Cycling Progenitor,-735.2921376,169.7013376,myeloid_progenitor,uncertain
+cell0112,Early GMP,Cycling Progenitor,-256.9998241,421.5042345,myeloid_progenitor,uncertain
+cell0113,Early GMP,MPP-MkEry,-841.5741414,124.6554814,myeloid_progenitor,uncertain
+cell0114,Early GMP,LMPP,243.5408365,729.4828171,myeloid_progenitor,progenitor_in
+cell0115,Cycling Progenitor,Early GMP,-710.6034563,64.64254821,multipotent,uncertain
+cell0116,Early GMP,Cycling Progenitor,-74.67578838,276.4499942,myeloid_progenitor,uncertain
+cell0117,,,,,,not_scored
+cell0118,Early GMP,LMPP,-599.3893411,499.0161203,myeloid_progenitor,uncertain
+cell0119,Early GMP,LMPP,29.52020843,477.9036545,myeloid_progenitor,progenitor_in
+cell0120,GMP-Mono,Early ProMono,-4.028624106,267.8291061,myeloid_progenitor,uncertain
+cell0121,GMP-Mono,Early ProMono,152.7430181,350.7143541,myeloid_progenitor,progenitor_in
+cell0122,GMP-Mono,Early ProMono,142.8654303,566.7995457,myeloid_progenitor,progenitor_in
+cell0123,GMP-Mono,Early ProMono,-50.97342322,327.9924811,myeloid_progenitor,uncertain
+cell0124,GMP-Mono,Early ProMono,-448.1904795,183.0291752,myeloid_progenitor,uncertain
+cell0125,GMP-Mono,Early ProMono,112.0895593,242.7422258,myeloid_progenitor,progenitor_in
+cell0126,GMP-Mono,Early ProMono,86.07705322,378.5920417,myeloid_progenitor,progenitor_in
+cell0127,GMP-Mono,Early ProMono,325.4303101,455.425229,myeloid_progenitor,progenitor_in
+cell0128,GMP-Mono,Early ProMono,-21.51493867,535.9929705,myeloid_progenitor,uncertain
+cell0129,Early ProMono,GMP-Mono,-250.3087551,66.22333795,monocyte_precursor,monocyte_precursor
+cell0130,GMP-Mono,Early ProMono,314.6944711,526.4628572,myeloid_progenitor,progenitor_in
+cell0131,Early ProMono,GMP-Mono,130.6171986,72.79944509,monocyte_precursor,monocyte_precursor
+cell0132,GMP-Mono,Early ProMono,136.6788104,462.374787,myeloid_progenitor,progenitor_in
+cell0133,GMP-Mono,Early ProMono,20.24947829,154.5917089,myeloid_progenitor,progenitor_in
+cell0134,GMP-Mono,Early ProMono,-26.92171098,184.1056664,myeloid_progenitor,uncertain
+cell0135,,,,,,not_scored
+cell0136,GMP-Mono,Early ProMono,-166.4663317,401.4785499,myeloid_progenitor,uncertain
+cell0137,GMP-Mono,Early ProMono,-331.0471931,45.13172467,myeloid_progenitor,uncertain
+cell0138,Early ProMono,GMP-Mono,-58.48214253,40.7895926,monocyte_precursor,monocyte_precursor
+cell0139,GMP-Mono,Early ProMono,-25.6602909,49.3985295,myeloid_progenitor,uncertain
+cell0140,GMP-Mono,Early ProMono,-31.58910587,184.1066195,myeloid_progenitor,uncertain
+cell0141,GMP-Mono,Early ProMono,-26.78276128,277.9044823,myeloid_progenitor,uncertain
+cell0142,GMP-Mono,Early ProMono,-341.6896378,356.8757485,myeloid_progenitor,uncertain
+cell0143,GMP-Mono,Early ProMono,-539.7714033,87.76331443,myeloid_progenitor,uncertain
+cell0144,GMP-Mono,Early ProMono,410.5004985,335.4212172,myeloid_progenitor,progenitor_in
+cell0145,GMP-Mono,Early ProMono,-38.0186067,569.4993093,myeloid_progenitor,uncertain
+cell0146,GMP-Mono,Early ProMono,-11.16568534,401.6640358,myeloid_progenitor,uncertain
+cell0147,GMP-Mono,Early ProMono,285.6473185,337.7068686,myeloid_progenitor,progenitor_in
+cell0148,GMP-Mono,Early ProMono,44.99175403,262.896172,myeloid_progenitor,progenitor_in
+cell0149,GMP-Mono,Early ProMono,-1.967635753,476.7566165,myeloid_progenitor,uncertain
+cell0150,GMP-Mono,Early ProMono,-135.4891408,372.0883306,myeloid_progenitor,uncertain
+cell0151,GMP-Mono,Early ProMono,-102.0009253,411.0230919,myeloid_progenitor,uncertain
+cell0152,GMP-Mono,Early ProMono,-262.3861924,299.2262655,myeloid_progenitor,uncertain
+cell0153,GMP-Mono,Early ProMono,-224.8518325,137.8973316,myeloid_progenitor,uncertain
+cell0154,GMP-Mono,Early ProMono,487.7995253,432.4820871,myeloid_progenitor,progenitor_in
+cell0155,GMP-Mono,Early ProMono,188.4246871,697.9188854,myeloid_progenitor,progenitor_in
+cell0156,GMP-Mono,Early ProMono,-327.221007,45.38623067,myeloid_progenitor,uncertain
+cell0157,GMP-Mono,Early ProMono,21.22139001,404.9441273,myeloid_progenitor,progenitor_in
+cell0158,GMP-Mono,Early ProMono,136.0425478,315.5178177,myeloid_progenitor,progenitor_in
+cell0159,GMP-Mono,Early ProMono,-59.6758224,407.2303561,myeloid_progenitor,uncertain
+cell0160,GMP-Mono,Early ProMono,-150.2854637,99.14420802,myeloid_progenitor,uncertain
+cell0161,,,,,,not_scored
+cell0162,GMP-Mono,Early ProMono,69.18748128,598.1462695,myeloid_progenitor,progenitor_in
+cell0163,GMP-Mono,Early ProMono,57.70939227,198.9199235,myeloid_progenitor,progenitor_in
+cell0164,GMP-Mono,Early ProMono,-179.9659296,53.51690202,myeloid_progenitor,uncertain
+cell0165,GMP-Mono,Early ProMono,175.323385,484.0852378,myeloid_progenitor,progenitor_in
+cell0166,GMP-Mono,Early ProMono,74.93948399,266.1654793,myeloid_progenitor,progenitor_in
+cell0167,GMP-Mono,Early ProMono,28.34868781,470.6555097,myeloid_progenitor,progenitor_in
+cell0168,GMP-Mono,Early ProMono,272.2277962,81.41384698,myeloid_progenitor,uncertain
+cell0169,GMP-Mono,Early ProMono,43.23943935,324.0402178,myeloid_progenitor,progenitor_in
+cell0170,GMP-Mono,Early ProMono,165.6599348,506.5638493,myeloid_progenitor,progenitor_in
+cell0171,GMP-Mono,Early ProMono,206.7780372,602.3264498,myeloid_progenitor,progenitor_in
+cell0172,GMP-Mono,GMP-Neut,-169.9482741,630.2379375,myeloid_progenitor,uncertain
+cell0173,GMP-Mono,Early ProMono,92.45977538,296.8101917,myeloid_progenitor,progenitor_in
+cell0174,Early ProMono,GMP-Mono,-210.3985847,81.72889573,monocyte_precursor,monocyte_precursor
+cell0175,GMP-Mono,Early ProMono,-36.56748818,299.0193107,myeloid_progenitor,uncertain
+cell0176,Early ProMono,GMP-Mono,155.3704002,29.44864595,monocyte_precursor,monocyte_precursor
+cell0177,GMP-Mono,Early ProMono,51.12645714,371.8155829,myeloid_progenitor,progenitor_in
+cell0178,GMP-Mono,Early ProMono,87.19123316,353.1949795,myeloid_progenitor,progenitor_in
+cell0179,GMP-Mono,Early ProMono,185.4895398,362.9842813,myeloid_progenitor,progenitor_in
+cell0180,GMP-Mono,Early ProMono,-398.3231434,162.5768993,myeloid_progenitor,uncertain
+cell0181,GMP-Mono,Early ProMono,-88.56088966,322.7765925,myeloid_progenitor,uncertain
+cell0182,GMP-Mono,Early ProMono,-225.8434737,392.8434457,myeloid_progenitor,uncertain
+cell0183,GMP-Mono,Early ProMono,-212.1583905,90.91339286,myeloid_progenitor,uncertain
+cell0184,GMP-Mono,Early ProMono,1.719962685,513.1392974,myeloid_progenitor,progenitor_in
+cell0185,Early ProMono,GMP-Mono,212.5892487,179.4589186,monocyte_precursor,monocyte_precursor
+cell0186,GMP-Mono,Early ProMono,400.5758231,477.5198499,myeloid_progenitor,progenitor_in
+cell0187,GMP-Mono,Early ProMono,89.08474653,332.1870544,myeloid_progenitor,progenitor_in
+cell0188,GMP-Mono,Early ProMono,251.9747945,637.0433616,myeloid_progenitor,progenitor_in
+cell0189,GMP-Mono,Early ProMono,-256.4829969,6.106790501,myeloid_progenitor,uncertain
+cell0190,Pre-cDC,cDC2,-132.7935669,511.0109169,dc_precursor,uncertain
+cell0191,,,,,,not_scored
+cell0192,Pre-cDC,Early ProMono,233.4551206,527.9215225,dc_precursor,progenitor_in
+cell0193,Pre-cDC,cDC2,128.2654897,514.8076407,dc_precursor,progenitor_in
+cell0194,Pre-cDC,cDC2,242.0139401,329.0160105,dc_precursor,progenitor_in
+cell0195,Pre-cDC,cDC2,209.4662443,587.6076332,dc_precursor,progenitor_in
+cell0196,Pre-cDC,cDC2,-409.686332,262.280844,dc_precursor,uncertain
+cell0197,Pre-cDC,Early ProMono,-292.8238929,517.7433007,dc_precursor,uncertain
+cell0198,Pre-cDC,cDC2,270.6074919,344.3506312,dc_precursor,progenitor_in
+cell0199,Pre-cDC,cDC2,84.2004825,902.4966034,dc_precursor,progenitor_in
+cell0200,Pre-cDC,cDC2,-634.2808932,136.5503369,dc_precursor,uncertain
+cell0201,Pre-cDC,Early ProMono,192.9463161,883.1646223,dc_precursor,progenitor_in
+cell0202,Pre-cDC,Early ProMono,260.5817591,974.6075627,dc_precursor,progenitor_in
+cell0203,Pre-cDC,cDC2,381.5394464,408.3613156,dc_precursor,progenitor_in
+cell0204,Pre-cDC,cDC2,-507.2249484,32.04172343,dc_precursor,uncertain
+cell0205,Pre-cDC,cDC2,175.769067,541.215331,dc_precursor,progenitor_in
+cell0206,Pre-cDC,Early ProMono,25.36743777,708.9722146,dc_precursor,progenitor_in
+cell0207,Pre-cDC,cDC2,-23.62245688,394.0498519,dc_precursor,uncertain
+cell0208,Pre-cDC,cDC2,-21.33411734,422.2330542,dc_precursor,uncertain
+cell0209,Pre-cDC,cDC2,515.4002585,968.5193931,dc_precursor,progenitor_in
+cell0210,cDC2,Pre-cDC,-40.40970381,25.26068255,mature_mnp,mature_mnp
+cell0211,Pre-cDC,cDC2,245.2011871,166.9865035,dc_precursor,progenitor_in
+cell0212,Pre-cDC,cDC2,-32.35858872,380.6161204,dc_precursor,uncertain
+cell0213,Pre-cDC,cDC2,227.1676993,732.5871466,dc_precursor,progenitor_in
+cell0214,Pre-cDC,cDC2,-31.46609289,748.5453608,dc_precursor,uncertain
+cell0215,Pre-cDC,Early ProMono,-544.1416905,206.3982867,dc_precursor,uncertain
+cell0216,Pre-cDC,cDC2,456.601598,767.5351609,dc_precursor,progenitor_in
+cell0217,Pre-cDC,cDC2,-48.27888943,843.93361,dc_precursor,uncertain
+cell0218,Pre-cDC,cDC2,205.6183524,708.9091078,dc_precursor,progenitor_in
+cell0219,Pre-cDC,cDC2,60.52603119,541.9394391,dc_precursor,progenitor_in
+cell0220,Pre-cDC,cDC2,-88.47138689,567.0939692,dc_precursor,uncertain
+cell0221,Pre-cDC,cDC2,-83.51617934,534.9970532,dc_precursor,uncertain
+cell0222,Pre-cDC,cDC2,-38.72324532,335.1398624,dc_precursor,uncertain
+cell0223,Pre-cDC,cDC2,-127.3803708,716.5508381,dc_precursor,uncertain
+cell0224,Pre-cDC,cDC2,-225.7708242,341.0119101,dc_precursor,uncertain
+cell0225,Pre-cDC,cDC2,-155.8204607,644.458964,dc_precursor,uncertain
+cell0226,Pre-cDC,cDC2,565.1682102,806.5872305,dc_precursor,progenitor_in
+cell0227,Pre-cDC,cDC2,16.66952891,510.3822692,dc_precursor,progenitor_in
+cell0228,Pre-cDC,cDC2,176.4037894,392.3059974,dc_precursor,progenitor_in
+cell0229,Pre-cDC,cDC2,-190.1029474,220.0428655,dc_precursor,uncertain
+cell0230,Pre-cDC,cDC2,-240.1165909,114.6187978,dc_precursor,uncertain
+cell0231,Pre-cDC,cDC2,-278.2890287,43.94456631,dc_precursor,uncertain
+cell0232,Pre-cDC,cDC2,-203.9759957,306.0040626,dc_precursor,uncertain
+cell0233,cDC2,Pre-cDC,-191.2888921,87.36224975,mature_mnp,mature_mnp
+cell0234,Pre-cDC,Early ProMono,-190.0729373,511.8985207,dc_precursor,uncertain
+cell0235,Pre-cDC,cDC2,171.6513409,543.9938063,dc_precursor,progenitor_in
+cell0236,Pre-cDC,cDC2,-91.56068003,440.2850737,dc_precursor,uncertain
+cell0237,Pre-cDC,Early ProMono,-415.5111234,420.6452816,dc_precursor,uncertain
+cell0238,Pre-cDC,Early ProMono,-401.2354145,376.3916537,dc_precursor,uncertain
+cell0239,Pre-cDC,cDC2,35.00649716,761.508115,dc_precursor,progenitor_in
+cell0240,,,,,,not_scored
+cell0241,Pre-pDC,Pre-pDC Cycling,-132.5608445,226.8520742,dc_precursor,uncertain
+cell0242,Pre-pDC,Pre-pDC Cycling,-584.9566856,393.5593319,dc_precursor,uncertain
+cell0243,Pre-pDC,Pre-cDC,-223.0778462,562.770518,dc_precursor,uncertain
+cell0244,Pre-pDC,Pre-pDC Cycling,-334.6330592,383.7608366,dc_precursor,uncertain
+cell0245,Pre-pDC,Pre-pDC Cycling,-268.5322757,541.0560943,dc_precursor,uncertain
+cell0246,Pre-pDC,Pre-cDC,-825.0233812,19.32597183,dc_precursor,uncertain
+cell0247,,,,,,not_scored
+cell0248,Pre-pDC,Pre-pDC Cycling,-394.2723296,559.0131992,dc_precursor,uncertain
+cell0249,Pre-pDC,Pre-pDC Cycling,250.8939499,609.0958512,dc_precursor,progenitor_in
+cell0250,Pre-pDC,Pre-pDC Cycling,-418.0252604,302.5488424,dc_precursor,uncertain
+cell0251,Pre-pDC,Pre-pDC Cycling,-258.1328285,50.16623226,dc_precursor,uncertain
+cell0252,Pre-pDC Cycling,Pre-pDC,-202.4136247,50.40573052,dc_precursor,uncertain
+cell0253,Pre-pDC,pDC,-480.568287,471.8330656,dc_precursor,uncertain
+cell0254,Pre-pDC,Pre-pDC Cycling,-233.7204337,378.002239,dc_precursor,uncertain
+cell0255,Pre-pDC,Pre-pDC Cycling,-156.9383017,729.0698311,dc_precursor,uncertain
+cell0256,Pre-pDC,Pre-pDC Cycling,-81.35607894,335.4155955,dc_precursor,uncertain
+cell0257,pDC,Pre-pDC,-1136.094866,2.114095276,mature_mnp,mature_mnp
+cell0258,Pre-pDC,Pre-cDC,-387.5360517,310.1981566,dc_precursor,uncertain
+cell0259,Pre-pDC,MLP-II,-910.4353079,203.2167352,dc_precursor,uncertain
+cell0260,Pre-pDC,Pre-pDC Cycling,-129.3163225,692.2316597,dc_precursor,uncertain
+cell0261,Pre-pDC,Pre-pDC Cycling,-163.771345,505.0560742,dc_precursor,uncertain
+cell0262,Pre-pDC,Pre-pDC Cycling,-84.72954029,114.6432843,dc_precursor,uncertain
+cell0263,Pre-pDC,Pre-pDC Cycling,-285.3032266,334.9861955,dc_precursor,uncertain
+cell0264,Pre-pDC,Pre-pDC Cycling,-322.6872314,421.6195014,dc_precursor,uncertain
+cell0265,Pre-pDC,Pre-pDC Cycling,-324.3916692,534.6713628,dc_precursor,uncertain
+cell0266,Pre-pDC,Pre-pDC Cycling,-387.363683,406.4273081,dc_precursor,uncertain
+cell0267,Pre-pDC,Pre-pDC Cycling,-381.8166246,366.3052079,dc_precursor,uncertain
+cell0268,Pre-pDC,Pre-pDC Cycling,126.6423325,394.1489657,dc_precursor,progenitor_in
+cell0269,Pre-pDC,Pre-pDC Cycling,-85.94692009,325.1024217,dc_precursor,uncertain
+cell0270,Pre-pDC,Pre-pDC Cycling,-385.9007781,352.5781756,dc_precursor,uncertain
+cell0271,Pre-pDC,Pre-pDC Cycling,-585.4946676,146.0647395,dc_precursor,uncertain
+cell0272,Pre-pDC,Pre-pDC Cycling,-633.5293633,384.4958254,dc_precursor,uncertain
+cell0273,Pre-pDC,Pre-pDC Cycling,-419.3778068,298.5614784,dc_precursor,uncertain
+cell0274,Pre-pDC,Pre-pDC Cycling,-512.9924494,369.5248557,dc_precursor,uncertain
+cell0275,,,,,,not_scored
+cell0276,Pre-pDC,Pre-cDC,-481.6940567,328.925436,dc_precursor,uncertain
+cell0277,Pre-pDC,Pre-pDC Cycling,-511.4755029,241.4310055,dc_precursor,uncertain
+cell0278,Pre-pDC,Pre-pDC Cycling,-527.8298668,122.3353173,dc_precursor,uncertain
+cell0279,Pre-pDC,pDC,-955.0286895,107.3310678,dc_precursor,uncertain
+cell0280,Early ProMono,Pre-cDC,668.988929,438.4324869,monocyte_precursor,monocyte_precursor
+cell0281,Early ProMono,Late ProMono,615.5235343,952.4005567,monocyte_precursor,monocyte_precursor
+cell0282,Early ProMono,Pre-cDC,128.2133286,230.4136844,monocyte_precursor,monocyte_precursor
+cell0283,Early ProMono,GMP-Mono,224.6582285,481.4137001,monocyte_precursor,monocyte_precursor
+cell0284,Early ProMono,Pre-cDC,-124.9668656,191.8402322,monocyte_precursor,monocyte_precursor
+cell0285,Early ProMono,GMP-Mono,320.4311363,437.9514144,monocyte_precursor,monocyte_precursor
+cell0286,Early ProMono,GMP-Mono,44.87694944,334.443629,monocyte_precursor,monocyte_precursor
+cell0287,Early ProMono,GMP-Mono,60.94660351,275.7489141,monocyte_precursor,monocyte_precursor
+cell0288,Early ProMono,GMP-Mono,312.0028886,623.29886,monocyte_precursor,monocyte_precursor
+cell0289,Early ProMono,Pre-cDC,-80.04090072,306.6629096,monocyte_precursor,monocyte_precursor
+cell0290,Early ProMono,GMP-Mono,-102.4786963,188.1537678,monocyte_precursor,monocyte_precursor
+cell0291,Early ProMono,GMP-Mono,53.70015964,318.2781113,monocyte_precursor,monocyte_precursor
+cell0292,Early ProMono,GMP-Mono,-49.17777524,288.9287795,monocyte_precursor,monocyte_precursor
+cell0293,Early ProMono,Late ProMono,-64.18201787,335.5586896,monocyte_precursor,monocyte_precursor
+cell0294,Early ProMono,Late ProMono,-176.7904853,318.4948772,monocyte_precursor,monocyte_precursor
+cell0295,Early ProMono,Late ProMono,-106.9550234,377.0843325,monocyte_precursor,monocyte_precursor
+cell0296,Early ProMono,Late ProMono,223.9919359,624.0849137,monocyte_precursor,monocyte_precursor
+cell0297,Early ProMono,Pre-cDC,618.0915682,787.3805238,monocyte_precursor,monocyte_precursor
+cell0298,Early ProMono,Pre-cDC,113.9716988,389.4682247,monocyte_precursor,monocyte_precursor
+cell0299,Early ProMono,GMP-Mono,72.03724547,437.6708107,monocyte_precursor,monocyte_precursor
+cell0300,Early ProMono,Late ProMono,34.65905323,205.3246429,monocyte_precursor,monocyte_precursor
+cell0301,Early ProMono,Pre-cDC,-35.51321744,259.9653097,monocyte_precursor,monocyte_precursor
+cell0302,Early ProMono,Pre-cDC,-323.5227579,337.9898913,monocyte_precursor,monocyte_precursor
+cell0303,Early ProMono,GMP-Mono,259.4261475,406.6749866,monocyte_precursor,monocyte_precursor
+cell0304,Early ProMono,Pre-cDC,-162.4683345,245.9527028,monocyte_precursor,monocyte_precursor
+cell0305,Early ProMono,Late ProMono,16.51326428,302.3727271,monocyte_precursor,monocyte_precursor
+cell0306,Early ProMono,Late ProMono,-171.3332822,29.86718714,monocyte_precursor,monocyte_precursor
+cell0307,,,,,,not_scored
+cell0308,Early ProMono,GMP-Mono,345.9134186,198.3149,monocyte_precursor,monocyte_precursor
+cell0309,Early ProMono,Pre-cDC,-130.1948621,190.8497283,monocyte_precursor,monocyte_precursor
+cell0310,Early ProMono,Late ProMono,110.7768923,360.5315521,monocyte_precursor,monocyte_precursor
+cell0311,Early ProMono,Late ProMono,-10.64855122,227.6691642,monocyte_precursor,monocyte_precursor
+cell0312,Early ProMono,Pre-cDC,-153.4294443,513.1611201,monocyte_precursor,monocyte_precursor
+cell0313,Early ProMono,GMP-Mono,229.7628882,445.5067787,monocyte_precursor,monocyte_precursor
+cell0314,Early ProMono,Late ProMono,-49.92937543,351.04461,monocyte_precursor,monocyte_precursor
+cell0315,Early ProMono,Late ProMono,24.52744907,497.7223362,monocyte_precursor,monocyte_precursor
+cell0316,Early ProMono,Late ProMono,88.91671413,651.4150072,monocyte_precursor,monocyte_precursor
+cell0317,Early ProMono,Pre-cDC,58.64763664,549.5663439,monocyte_precursor,monocyte_precursor
+cell0318,,,,,,not_scored
+cell0319,Early ProMono,GMP-Mono,-170.7529003,338.2181424,monocyte_precursor,monocyte_precursor
+cell0320,Early ProMono,Pre-cDC,156.5032384,233.9378092,monocyte_precursor,monocyte_precursor
+cell0321,Early ProMono,Pre-cDC,137.6818504,631.5405967,monocyte_precursor,monocyte_precursor
+cell0322,Early ProMono,Late ProMono,116.9190669,414.0045866,monocyte_precursor,monocyte_precursor
+cell0323,Early ProMono,Late ProMono,-100.1461935,479.0956484,monocyte_precursor,monocyte_precursor
+cell0324,Early ProMono,GMP-Mono,161.3991927,474.231518,monocyte_precursor,monocyte_precursor
+cell0325,Early ProMono,GMP-Mono,49.64603781,458.250455,monocyte_precursor,monocyte_precursor
+cell0326,Early ProMono,Late ProMono,11.90326546,305.0025604,monocyte_precursor,monocyte_precursor
+cell0327,Early ProMono,GMP-Mono,-269.4672489,302.0212319,monocyte_precursor,monocyte_precursor
+cell0328,Early ProMono,Late ProMono,-192.4606429,233.8311927,monocyte_precursor,monocyte_precursor
+cell0329,,,,,,not_scored
+cell0330,Early ProMono,GMP-Mono,-75.05323781,267.2115463,monocyte_precursor,monocyte_precursor
+cell0331,Early ProMono,Late ProMono,-46.45985277,239.129763,monocyte_precursor,monocyte_precursor
+cell0332,Pre-cDC,Early ProMono,-38.86344397,49.98826064,dc_precursor,uncertain
+cell0333,Early ProMono,Late ProMono,112.3331619,850.6611224,monocyte_precursor,monocyte_precursor
+cell0334,Early ProMono,Late ProMono,-343.8906333,218.9589687,monocyte_precursor,monocyte_precursor
+cell0335,Early ProMono,Pre-cDC,295.6287993,505.6111561,monocyte_precursor,monocyte_precursor
+cell0336,Early ProMono,GMP-Mono,-19.78055522,352.5321244,monocyte_precursor,monocyte_precursor
+cell0337,Early ProMono,Late ProMono,126.3077025,329.3959076,monocyte_precursor,monocyte_precursor
+cell0338,Early ProMono,GMP-Mono,-150.1831685,617.0103779,monocyte_precursor,monocyte_precursor
+cell0339,Early ProMono,Late ProMono,-20.55154935,289.5223562,monocyte_precursor,monocyte_precursor
+cell0340,Early ProMono,Late ProMono,191.0892141,459.0665061,monocyte_precursor,monocyte_precursor
+cell0341,Early ProMono,Late ProMono,73.22457725,432.9902629,monocyte_precursor,monocyte_precursor
+cell0342,Early ProMono,Late ProMono,232.0580141,398.9302194,monocyte_precursor,monocyte_precursor
+cell0343,Early ProMono,Pre-cDC,-27.06114559,239.1322544,monocyte_precursor,monocyte_precursor
+cell0344,Early ProMono,Late ProMono,-29.11551572,289.6821626,monocyte_precursor,monocyte_precursor
+cell0345,Early ProMono,Late ProMono,244.9065548,265.470556,monocyte_precursor,monocyte_precursor
+cell0346,Early ProMono,Pre-cDC,-112.2116466,321.3415565,monocyte_precursor,monocyte_precursor
+cell0347,Early ProMono,Pre-cDC,-334.0198164,158.4667911,monocyte_precursor,monocyte_precursor
+cell0348,Early ProMono,Pre-cDC,-260.042564,455.7475825,monocyte_precursor,monocyte_precursor
+cell0349,Early ProMono,GMP-Mono,-242.5550706,125.6306242,monocyte_precursor,monocyte_precursor
+cell0350,Late ProMono,CD14 Mono,-257.1953937,31.68069543,monocyte_precursor,monocyte_precursor
+cell0351,Late ProMono,CD14 Mono,-72.15830347,98.41486205,monocyte_precursor,monocyte_precursor
+cell0352,Late ProMono,Early ProMono,-306.004201,38.46015701,monocyte_precursor,monocyte_precursor
+cell0353,Late ProMono,CD14 Mono,-21.29940145,61.03357726,monocyte_precursor,monocyte_precursor
+cell0354,Late ProMono,CD14 Mono,150.2893093,442.9287001,monocyte_precursor,monocyte_precursor
+cell0355,Early ProMono,Late ProMono,-164.5964727,29.33299765,monocyte_precursor,monocyte_precursor
+cell0356,Late ProMono,CD14 Mono,-231.7217434,82.09172064,monocyte_precursor,monocyte_precursor
+cell0357,Late ProMono,CD14 Mono,-80.23042256,88.48972775,monocyte_precursor,monocyte_precursor
+cell0358,Late ProMono,CD14 Mono,-271.926579,95.22222408,monocyte_precursor,monocyte_precursor
+cell0359,Late ProMono,CD14 Mono,22.71843052,5.163637357,monocyte_precursor,monocyte_precursor
+cell0360,CD14 Mono,Late ProMono,-302.9874823,49.62270394,mature_mnp,mature_mnp
+cell0361,Late ProMono,CD14 Mono,-120.8837214,38.15069571,monocyte_precursor,monocyte_precursor
+cell0362,Late ProMono,CD14 Mono,-272.0795151,115.2532311,monocyte_precursor,monocyte_precursor
+cell0363,CD14 Mono,Early ProMono,-222.1553168,5.477457803,mature_mnp,mature_mnp
+cell0364,Late ProMono,CD14 Mono,-328.8808928,201.5076251,monocyte_precursor,monocyte_precursor
+cell0365,Late ProMono,Early ProMono,-165.3248978,194.5091805,monocyte_precursor,monocyte_precursor
+cell0366,Late ProMono,CD14 Mono,-103.1752787,161.0763029,monocyte_precursor,monocyte_precursor
+cell0367,Late ProMono,CD14 Mono,-382.5899632,61.73682015,monocyte_precursor,monocyte_precursor
+cell0368,CD14 Mono,Late ProMono,-68.02737775,28.38996383,mature_mnp,mature_mnp
+cell0369,Late ProMono,CD14 Mono,-146.6148132,39.59962041,monocyte_precursor,monocyte_precursor
+cell0370,Late ProMono,CD14 Mono,-132.0077048,261.687942,monocyte_precursor,monocyte_precursor
+cell0371,Late ProMono,CD14 Mono,-201.3969223,120.0034083,monocyte_precursor,monocyte_precursor
+cell0372,Late ProMono,CD14 Mono,197.3021983,305.3421367,monocyte_precursor,monocyte_precursor
+cell0373,CD14 Mono,Late ProMono,-172.9456526,78.06845508,mature_mnp,mature_mnp
+cell0374,Late ProMono,Early ProMono,-324.9302469,94.29685796,monocyte_precursor,monocyte_precursor
+cell0375,Late ProMono,CD14 Mono,47.95568609,115.5855932,monocyte_precursor,monocyte_precursor
+cell0376,Late ProMono,CD14 Mono,115.9157689,148.6467319,monocyte_precursor,monocyte_precursor
+cell0377,Late ProMono,Early ProMono,-43.03734898,194.6814674,monocyte_precursor,monocyte_precursor
+cell0378,CD14 Mono,Late ProMono,-203.3538869,68.73852409,mature_mnp,mature_mnp
+cell0379,CD14 Mono,Late ProMono,-334.4519866,35.61561311,mature_mnp,mature_mnp
+cell0380,CD14 Mono,Late ProMono,-98.62976908,127.4753571,mature_mnp,mature_mnp
+cell0381,CD14 Mono,Late ProMono,-151.7583045,208.9418661,mature_mnp,mature_mnp
+cell0382,Late ProMono,Early ProMono,250.0810589,121.0481482,monocyte_precursor,monocyte_precursor
+cell0383,CD14 Mono,Late ProMono,-61.06559011,48.99904377,mature_mnp,mature_mnp
+cell0384,CD14 Mono,Early ProMono,-427.8526797,19.84569698,mature_mnp,mature_mnp
+cell0385,Early ProMono,Late ProMono,-91.49161991,75.50639219,monocyte_precursor,monocyte_precursor
+cell0386,CD14 Mono,Late ProMono,-130.7493427,142.1373161,mature_mnp,mature_mnp
+cell0387,Late ProMono,CD14 Mono,123.3187837,15.76356094,monocyte_precursor,monocyte_precursor
+cell0388,Late ProMono,Early ProMono,-266.232312,136.1227086,monocyte_precursor,monocyte_precursor
+cell0389,Late ProMono,CD14 Mono,-188.9728457,190.9038941,monocyte_precursor,monocyte_precursor
+cell0390,Late ProMono,Early ProMono,93.18525359,160.5364343,monocyte_precursor,monocyte_precursor
+cell0391,CD14 Mono,Late ProMono,-467.8404376,6.568221754,mature_mnp,mature_mnp
+cell0392,CD14 Mono,Late ProMono,61.26764054,127.297419,mature_mnp,mature_mnp
+cell0393,Late ProMono,Early ProMono,-257.5657171,48.63050852,monocyte_precursor,monocyte_precursor
+cell0394,Late ProMono,CD14 Mono,-84.33883887,156.0736841,monocyte_precursor,monocyte_precursor
+cell0395,Late ProMono,CD14 Mono,-189.6996211,179.2679235,monocyte_precursor,monocyte_precursor
+cell0396,Late ProMono,CD14 Mono,-252.3632677,317.1352943,monocyte_precursor,monocyte_precursor
+cell0397,Late ProMono,Early ProMono,17.64733284,103.3115211,monocyte_precursor,monocyte_precursor
+cell0398,CD14 Mono,Late ProMono,-143.9615441,29.39080731,mature_mnp,mature_mnp
+cell0399,Late ProMono,CD14 Mono,-365.9308825,113.1786272,monocyte_precursor,monocyte_precursor
+cell0400,CD14 Mono,Late ProMono,54.59849827,171.1331963,mature_mnp,mature_mnp
+cell0401,Late ProMono,Early ProMono,30.54779153,192.4047205,monocyte_precursor,monocyte_precursor
+cell0402,Late ProMono,CD14 Mono,-11.20229471,277.2674554,monocyte_precursor,monocyte_precursor
+cell0403,CD14 Mono,Late ProMono,137.7395727,69.83950245,mature_mnp,mature_mnp
+cell0404,Late ProMono,CD14 Mono,-222.4313703,29.92018034,monocyte_precursor,monocyte_precursor
+cell0405,CD14 Mono,Late ProMono,-17.27930542,215.3916367,mature_mnp,mature_mnp
+cell0406,Late ProMono,Early ProMono,-345.1671351,46.55558595,monocyte_precursor,monocyte_precursor
+cell0407,Late ProMono,CD14 Mono,-48.18086583,197.9882317,monocyte_precursor,monocyte_precursor
+cell0408,Late ProMono,Early ProMono,-65.50933196,261.6225533,monocyte_precursor,monocyte_precursor
+cell0409,,,,,,not_scored
+cell0410,CD14 Mono,Late ProMono,-249.9999562,30.24929919,mature_mnp,mature_mnp
+cell0411,Late ProMono,Early ProMono,-443.4790076,252.6000156,monocyte_precursor,monocyte_precursor
+cell0412,Late ProMono,Early ProMono,-220.0412656,278.2502896,monocyte_precursor,monocyte_precursor
+cell0413,Late ProMono,CD14 Mono,-65.0678163,270.4973792,monocyte_precursor,monocyte_precursor
+cell0414,,,,,,not_scored
+cell0415,Late ProMono,CD14 Mono,-244.0614539,80.58032304,monocyte_precursor,monocyte_precursor
+cell0416,Late ProMono,CD14 Mono,-129.6910235,237.3749192,monocyte_precursor,monocyte_precursor
+cell0417,CD14 Mono,Early ProMono,-174.8577273,4.564877217,mature_mnp,mature_mnp
+cell0418,Late ProMono,CD14 Mono,-10.47535259,122.2110411,monocyte_precursor,monocyte_precursor
+cell0419,CD14 Mono,Early ProMono,-106.8537659,66.24578077,mature_mnp,mature_mnp
+cell0420,CD14 Mono,Late ProMono,230.9459289,479.0388284,mature_mnp,mature_mnp
+cell0421,CD14 Mono,Late ProMono,-15.7558405,190.2155807,mature_mnp,mature_mnp
+cell0422,CD14 Mono,CD16 Mono,2.348207191,404.2260228,mature_mnp,mature_mnp
+cell0423,CD14 Mono,Late ProMono,63.29102468,606.8462937,mature_mnp,mature_mnp
+cell0424,CD14 Mono,Late ProMono,70.90334901,392.0945239,mature_mnp,mature_mnp
+cell0425,CD14 Mono,CD16 Mono,537.3933516,651.0948027,mature_mnp,mature_mnp
+cell0426,CD14 Mono,CD16 Mono,235.5326675,250.4165873,mature_mnp,mature_mnp
+cell0427,CD14 Mono,Late ProMono,-114.1890036,267.3829042,mature_mnp,mature_mnp
+cell0428,CD14 Mono,Late ProMono,143.7019792,550.8727785,mature_mnp,mature_mnp
+cell0429,CD14 Mono,cDC2,-58.95720399,431.3206622,mature_mnp,mature_mnp
+cell0430,CD14 Mono,Late ProMono,66.32887085,567.3290157,mature_mnp,mature_mnp
+cell0431,CD14 Mono,CD16 Mono,97.42135092,608.159526,mature_mnp,mature_mnp
+cell0432,CD14 Mono,cDC2,354.5653127,575.1683148,mature_mnp,mature_mnp
+cell0433,CD14 Mono,Late ProMono,-235.3987423,329.4046044,mature_mnp,mature_mnp
+cell0434,,,,,,not_scored
+cell0435,CD14 Mono,cDC2,289.0032163,490.4555381,mature_mnp,mature_mnp
+cell0436,CD14 Mono,cDC2,178.0762878,158.1024972,mature_mnp,mature_mnp
+cell0437,CD14 Mono,Late ProMono,-211.0077539,237.6015329,mature_mnp,mature_mnp
+cell0438,CD14 Mono,cDC2,269.2629781,471.9315038,mature_mnp,mature_mnp
+cell0439,CD14 Mono,CD16 Mono,-17.80812582,443.0903862,mature_mnp,mature_mnp
+cell0440,CD14 Mono,cDC2,52.8341714,223.3412111,mature_mnp,mature_mnp
+cell0441,,,,,,not_scored
+cell0442,CD14 Mono,Late ProMono,-179.0881266,126.2594269,mature_mnp,mature_mnp
+cell0443,CD14 Mono,Late ProMono,-235.5846028,27.63598505,mature_mnp,mature_mnp
+cell0444,CD14 Mono,CD16 Mono,163.9732574,357.6363662,mature_mnp,mature_mnp
+cell0445,CD14 Mono,CD16 Mono,267.9190068,609.5945483,mature_mnp,mature_mnp
+cell0446,CD14 Mono,cDC2,59.91629296,428.237084,mature_mnp,mature_mnp
+cell0447,CD14 Mono,Late ProMono,-173.7747974,86.67571437,mature_mnp,mature_mnp
+cell0448,CD14 Mono,CD16 Mono,-79.62163969,454.5980437,mature_mnp,mature_mnp
+cell0449,CD14 Mono,cDC2,-47.31762392,567.315698,mature_mnp,mature_mnp
+cell0450,CD14 Mono,cDC2,543.7067897,579.130328,mature_mnp,mature_mnp
+cell0451,CD14 Mono,cDC2,280.0164978,661.8291156,mature_mnp,mature_mnp
+cell0452,CD14 Mono,Late ProMono,-3.379108951,501.9448194,mature_mnp,mature_mnp
+cell0453,Late ProMono,CD14 Mono,-553.2085363,109.0307098,monocyte_precursor,monocyte_precursor
+cell0454,CD14 Mono,CD16 Mono,363.624574,557.0240539,mature_mnp,mature_mnp
+cell0455,CD14 Mono,CD16 Mono,434.0667629,782.1691821,mature_mnp,mature_mnp
+cell0456,CD14 Mono,Late ProMono,94.1221769,548.3209715,mature_mnp,mature_mnp
+cell0457,CD14 Mono,Late ProMono,73.32310606,345.2595949,mature_mnp,mature_mnp
+cell0458,CD14 Mono,cDC2,407.0992994,526.4986624,mature_mnp,mature_mnp
+cell0459,CD14 Mono,cDC2,-158.863268,64.8343411,mature_mnp,mature_mnp
+cell0460,CD14 Mono,Late ProMono,-135.4943508,92.76031392,mature_mnp,mature_mnp
+cell0461,CD14 Mono,cDC2,276.4710592,495.3555958,mature_mnp,mature_mnp
+cell0462,CD14 Mono,Late ProMono,-244.3530833,239.0813306,mature_mnp,mature_mnp
+cell0463,Late ProMono,CD14 Mono,-271.6365848,9.404662287,monocyte_precursor,monocyte_precursor
+cell0464,CD14 Mono,CD16 Mono,207.8952992,357.5421308,mature_mnp,mature_mnp
+cell0465,CD14 Mono,Late ProMono,-259.8490661,154.0861091,mature_mnp,mature_mnp
+cell0466,CD14 Mono,cDC2,-14.01144214,197.4282501,mature_mnp,mature_mnp
+cell0467,CD14 Mono,Late ProMono,-80.20761174,350.5708447,mature_mnp,mature_mnp
+cell0468,CD14 Mono,Late ProMono,27.38060251,439.7879936,mature_mnp,mature_mnp
+cell0469,CD14 Mono,cDC2,306.5664837,439.0573931,mature_mnp,mature_mnp
+cell0470,CD14 Mono,cDC2,89.04094755,247.7620149,mature_mnp,mature_mnp
+cell0471,CD14 Mono,cDC2,120.7257262,496.1009059,mature_mnp,mature_mnp
+cell0472,CD14 Mono,cDC2,326.5821086,606.2526284,mature_mnp,mature_mnp
+cell0473,CD14 Mono,CD16 Mono,-8.946144543,360.3695625,mature_mnp,mature_mnp
+cell0474,CD14 Mono,Late ProMono,-81.09192017,358.1633594,mature_mnp,mature_mnp
+cell0475,CD14 Mono,cDC2,113.7299751,207.6556196,mature_mnp,mature_mnp
+cell0476,CD14 Mono,Late ProMono,233.944917,577.9947764,mature_mnp,mature_mnp
+cell0477,CD14 Mono,cDC2,212.8592965,423.9607088,mature_mnp,mature_mnp
+cell0478,CD14 Mono,CD16 Mono,-57.73985341,358.8192645,mature_mnp,mature_mnp
+cell0479,CD14 Mono,Late ProMono,132.3290865,315.652742,mature_mnp,mature_mnp
+cell0480,CD14 Mono,Late ProMono,106.9310219,360.0497626,mature_mnp,mature_mnp
+cell0481,CD14 Mono,cDC2,131.1305134,509.7581224,mature_mnp,mature_mnp
+cell0482,CD14 Mono,Late ProMono,252.0655163,288.809422,mature_mnp,mature_mnp
+cell0483,CD14 Mono,Late ProMono,-120.0418181,404.8862368,mature_mnp,mature_mnp
+cell0484,CD14 Mono,CD16 Mono,135.8754379,407.6615689,mature_mnp,mature_mnp
+cell0485,CD14 Mono,Late ProMono,327.1590523,401.9920277,mature_mnp,mature_mnp
+cell0486,,,,,,not_scored
+cell0487,CD14 Mono,Late ProMono,186.8354502,557.065289,mature_mnp,mature_mnp
+cell0488,CD14 Mono,Early ProMono,-75.10045536,211.0006599,mature_mnp,mature_mnp
+cell0489,CD14 Mono,Pre-cDC,130.8101119,559.2691727,mature_mnp,mature_mnp
+cell0490,CD14 Mono,Late ProMono,0.9465115388,491.3326126,mature_mnp,mature_mnp
+cell0491,CD14 Mono,Late ProMono,-91.41133933,93.20908005,mature_mnp,mature_mnp
+cell0492,CD14 Mono,CD16 Mono,-0.1383136592,291.2011684,mature_mnp,mature_mnp
+cell0493,CD14 Mono,CD16 Mono,222.0135508,285.7603457,mature_mnp,mature_mnp
+cell0494,CD14 Mono,cDC2,200.6294749,754.122466,mature_mnp,mature_mnp
+cell0495,CD14 Mono,Late ProMono,282.7468249,656.1971094,mature_mnp,mature_mnp
+cell0496,CD14 Mono,Late ProMono,-105.0354011,282.0300367,mature_mnp,mature_mnp
+cell0497,CD14 Mono,Late ProMono,191.2239563,484.3843165,mature_mnp,mature_mnp
+cell0498,CD14 Mono,Late ProMono,254.6887676,434.3670696,mature_mnp,mature_mnp
+cell0499,CD14 Mono,CD16 Mono,-45.22008934,522.7861573,mature_mnp,mature_mnp
+cell0500,CD14 Mono,cDC2,115.4925461,589.0898758,mature_mnp,mature_mnp
+cell0501,CD14 Mono,CD16 Mono,180.9325917,734.3865892,mature_mnp,mature_mnp
+cell0502,CD14 Mono,Late ProMono,-502.4560143,35.83797522,mature_mnp,mature_mnp
+cell0503,CD14 Mono,cDC2,164.4326403,677.1303868,mature_mnp,mature_mnp
+cell0504,CD14 Mono,cDC2,-134.773645,710.0119484,mature_mnp,mature_mnp
+cell0505,CD14 Mono,CD16 Mono,-176.4811633,267.9340991,mature_mnp,mature_mnp
+cell0506,CD14 Mono,Late ProMono,185.7884045,593.0312338,mature_mnp,mature_mnp
+cell0507,CD14 Mono,Late ProMono,-77.0074925,405.0245978,mature_mnp,mature_mnp
+cell0508,CD14 Mono,cDC2,174.3359621,496.0024922,mature_mnp,mature_mnp
+cell0509,CD14 Mono,Late ProMono,-51.74964665,366.1430902,mature_mnp,mature_mnp
+cell0510,CD14 Mono,cDC2,-36.09736897,549.5301755,mature_mnp,mature_mnp
+cell0511,CD14 Mono,CD16 Mono,-125.4309529,339.9576169,mature_mnp,mature_mnp
+cell0512,CD14 Mono,cDC2,-34.04230578,561.8305268,mature_mnp,mature_mnp
+cell0513,CD14 Mono,cDC2,239.3312374,504.9829771,mature_mnp,mature_mnp
+cell0514,CD14 Mono,CD16 Mono,-105.4753289,279.5911912,mature_mnp,mature_mnp
+cell0515,CD14 Mono,cDC2,173.4079736,566.0284838,mature_mnp,mature_mnp
+cell0516,CD14 Mono,cDC2,21.70925161,404.4646634,mature_mnp,mature_mnp
+cell0517,CD14 Mono,Late ProMono,-98.3202696,460.9948067,mature_mnp,mature_mnp
+cell0518,CD14 Mono,CD16 Mono,14.84916976,188.3549584,mature_mnp,mature_mnp
+cell0519,CD14 Mono,Late ProMono,136.4744945,536.4995498,mature_mnp,mature_mnp
+cell0520,cDC2,Pre-cDC,55.11112176,216.6379941,mature_mnp,mature_mnp
+cell0521,cDC2,Pre-cDC,129.2409402,441.9930344,mature_mnp,mature_mnp
+cell0522,cDC2,cDC1,799.4209299,1119.469206,mature_mnp,mature_mnp
+cell0523,cDC2,Pre-cDC,653.5582342,685.4094599,mature_mnp,mature_mnp
+cell0524,cDC2,Pre-cDC,281.0899933,465.754238,mature_mnp,mature_mnp
+cell0525,cDC2,Pre-cDC,174.1758409,574.4768501,mature_mnp,mature_mnp
+cell0526,cDC2,Pre-cDC,556.3443718,701.6865873,mature_mnp,mature_mnp
+cell0527,cDC2,Pre-cDC,89.31690151,535.9147996,mature_mnp,mature_mnp
+cell0528,cDC2,Pre-cDC,-191.2314115,272.1379562,mature_mnp,mature_mnp
+cell0529,cDC2,Pre-cDC,-476.7118552,199.0021224,mature_mnp,mature_mnp
+cell0530,cDC2,Pre-cDC,-342.9580514,107.5774834,mature_mnp,mature_mnp
+cell0531,cDC2,Pre-cDC,160.9778712,690.8064868,mature_mnp,mature_mnp
+cell0532,cDC2,Pre-cDC,-43.26140789,744.4565073,mature_mnp,mature_mnp
+cell0533,cDC2,cDC1,466.1273985,1018.213113,mature_mnp,mature_mnp
+cell0534,Late ProMono,CD14 Mono,-820.9700139,61.92792414,monocyte_precursor,monocyte_precursor
+cell0535,,,,,,not_scored
+cell0536,cDC2,Pre-cDC,-14.66807161,73.79320959,mature_mnp,mature_mnp
+cell0537,cDC2,Pre-cDC,-77.73895582,393.2935755,mature_mnp,mature_mnp
+cell0538,cDC2,Pre-cDC,668.6226832,828.2372541,mature_mnp,mature_mnp
+cell0539,cDC2,Pre-cDC,255.970756,79.93620062,mature_mnp,mature_mnp
+cell0540,cDC2,Pre-cDC,434.8871874,1172.65864,mature_mnp,mature_mnp
+cell0541,cDC2,Pre-cDC,83.45332274,405.6116981,mature_mnp,mature_mnp
+cell0542,cDC2,Pre-cDC,552.8368501,1021.078393,mature_mnp,mature_mnp
+cell0543,cDC2,Pre-cDC,-67.60792768,64.80721549,mature_mnp,mature_mnp
+cell0544,cDC2,Pre-cDC,-286.6453914,214.2128274,mature_mnp,mature_mnp
+cell0545,cDC2,Pre-cDC,-504.8336215,53.95239598,mature_mnp,mature_mnp
+cell0546,cDC2,Pre-cDC,101.9426842,666.9936464,mature_mnp,mature_mnp
+cell0547,cDC2,Pre-cDC,81.05784135,580.6818058,mature_mnp,mature_mnp
+cell0548,cDC2,Pre-cDC,369.2093688,571.5790301,mature_mnp,mature_mnp
+cell0549,cDC2,Pre-cDC,57.32204453,520.0526496,mature_mnp,mature_mnp
+cell0550,cDC2,Pre-cDC,130.2366389,595.2616963,mature_mnp,mature_mnp
+cell0551,cDC2,cDC1,537.8754169,787.8451481,mature_mnp,mature_mnp
+cell0552,cDC2,Pre-cDC,262.1351994,537.9903259,mature_mnp,mature_mnp
+cell0553,cDC2,Pre-cDC,190.6040488,633.6702453,mature_mnp,mature_mnp
+cell0554,cDC2,Pre-cDC,139.4366544,707.9167324,mature_mnp,mature_mnp
+cell0555,cDC2,Pre-cDC,342.8752928,500.392785,mature_mnp,mature_mnp
+cell0556,cDC2,Late ProMono,-688.1184283,49.28850081,mature_mnp,mature_mnp
+cell0557,cDC2,Pre-cDC,359.3923132,866.680214,mature_mnp,mature_mnp
+cell0558,cDC2,Pre-cDC,21.16075774,298.4236806,mature_mnp,mature_mnp
+cell0559,cDC2,cDC1,317.1477915,518.1100648,mature_mnp,mature_mnp
+cell0560,cDC2,Pre-cDC,616.4190267,472.5657233,mature_mnp,mature_mnp
+cell0561,cDC2,Pre-cDC,79.35941881,622.7461237,mature_mnp,mature_mnp
+cell0562,cDC2,CD14 Mono,149.6090926,848.9359696,mature_mnp,mature_mnp
+cell0563,cDC2,Pre-cDC,182.4387076,722.1748013,mature_mnp,mature_mnp
+cell0564,cDC2,Pre-cDC,-423.4984739,119.2860484,mature_mnp,mature_mnp
+cell0565,cDC2,Pre-cDC,176.2968849,451.0428227,mature_mnp,mature_mnp
+cell0566,cDC2,Pre-cDC,-226.345376,425.5691738,mature_mnp,mature_mnp
+cell0567,cDC2,Pre-cDC,-177.412153,522.8445381,mature_mnp,mature_mnp
+cell0568,cDC2,Pre-cDC,425.459827,497.8693944,mature_mnp,mature_mnp
+cell0569,cDC2,Pre-cDC,254.8528185,172.6103671,mature_mnp,mature_mnp
+cell0570,CD4 Naive,CD4 Central Memory,-214.1934763,146.0436391,other,not_progenitor
+cell0571,CD4 Naive,CD4 Central Memory,25.6254298,81.88801149,other,not_progenitor
+cell0572,CD8 Central Memory,CD4 Naive,-675.0301707,22.20115459,other,not_progenitor
+cell0573,CD8 Naive,CD4 Effector Memory,-83.5751705,276.1578472,other,not_progenitor
+cell0574,CD4 Naive,CD8 Central Memory,-373.2731177,13.92977224,other,not_progenitor
+cell0575,CD4 Naive,CD8 Central Memory,-101.9237965,154.7535392,other,not_progenitor
+cell0576,CD4 Regulatory,CD4 Naive,-280.2300304,39.84590722,other,not_progenitor
+cell0577,CD4 Naive,CD8 Naive,-29.45646519,395.227197,other,not_progenitor
+cell0578,CD4 Naive,CD8 Central Memory,-488.9157684,103.061516,other,not_progenitor
+cell0579,CD4 Naive,CD4 Regulatory,-105.799762,63.8729899,other,not_progenitor
+cell0580,CD4 Naive,CD4 Central Memory,-45.64639879,311.8583333,other,not_progenitor
+cell0581,CD4 Central Memory,CD4 Naive,-376.5655252,5.476261165,other,not_progenitor
+cell0582,CD4 Regulatory,CD8 Naive,-551.5823523,99.13525164,other,not_progenitor
+cell0583,CD4 Naive,CD8 Naive,-364.1650056,36.83940054,other,not_progenitor
+cell0584,CD4 Naive,CD4 Central Memory,-163.5380903,249.7290644,other,not_progenitor
+cell0585,CD8 Naive,CD4 Naive,-504.1853971,131.8493045,other,not_progenitor
+cell0586,CD4 Naive,CD4 Central Memory,-196.5010185,55.08314906,other,not_progenitor
+cell0587,CD4 Naive,CD8 Naive,-348.2130704,66.37684561,other,not_progenitor
+cell0588,CD4 Naive,CD4 Central Memory,-304.2788432,352.0874187,other,not_progenitor
+cell0589,CD4 Central Memory,CD4 Naive,-537.9234783,34.15075769,other,not_progenitor
+cell0590,CD4 Central Memory,CD8 Naive,59.15146885,215.769776,other,not_progenitor
+cell0591,CD4 Naive,CD8 Central Memory,-484.7402179,83.43210895,other,not_progenitor
+cell0592,CD8 Naive,CD4 Central Memory,-487.3805673,86.02207494,other,not_progenitor
+cell0593,CD4 Naive,CD8 Naive,-514.674255,110.2445126,other,not_progenitor
+cell0594,CD4 Central Memory,CD4 Naive,-337.1639995,96.40727124,other,not_progenitor
+cell0595,CD4 Naive,CD4 Central Memory,-455.4814074,47.35286962,other,not_progenitor
+cell0596,CD4 Regulatory,CD4 Naive,-272.7646757,78.37751492,other,not_progenitor
+cell0597,CD4 Naive,CD4 Central Memory,-7.119037661,284.3268698,other,not_progenitor
+cell0598,CD4 Central Memory,CD8 Central Memory,-420.2787324,78.81332117,other,not_progenitor
+cell0599,CD4 Naive,CD8 Naive,-40.78642856,251.9787666,other,not_progenitor
+cell0600,CD4 Naive,CD4 Central Memory,-270.547152,82.38674207,other,not_progenitor
+cell0601,CD8 Central Memory,CD4 Central Memory,-574.7507765,38.68253732,other,not_progenitor
+cell0602,CD4 Central Memory,CD4 Naive,-540.2558695,148.0558856,other,not_progenitor
+cell0603,CD8 Naive,CD4 Naive,-205.5884588,59.74053852,other,not_progenitor
+cell0604,CD4 Central Memory,CD4 Naive,-558.5552203,3.929859478,other,not_progenitor
+cell0605,CD4 Naive,CD4 Central Memory,-433.640584,15.80771961,other,not_progenitor
+cell0606,CD4 Naive,CD8 Central Memory,-439.8306041,37.43066132,other,not_progenitor
+cell0607,CD4 Naive,CD8 Naive,-330.8202399,32.69075825,other,not_progenitor
+cell0608,CD4 Naive,CD4 Central Memory,-113.8064409,110.8645899,other,not_progenitor
+cell0609,CD4 Central Memory,CD8 Naive,-796.2034493,4.059746615,other,not_progenitor
+cell0610,CD4 Central Memory,CD4 Naive,-258.8621121,62.45577489,other,not_progenitor
+cell0611,CD4 Central Memory,CD4 Naive,-411.1020319,23.10742414,other,not_progenitor
+cell0612,CD4 Central Memory,CD4 Naive,-216.0448837,31.13492809,other,not_progenitor
+cell0613,CD4 Naive,CD4 Central Memory,-328.5533308,84.45350448,other,not_progenitor
+cell0614,CD8 Naive,CD8 Central Memory,-322.5146051,94.22663708,other,not_progenitor
+cell0615,CD4 Naive,CD4 Regulatory,-301.2041222,84.8306769,other,not_progenitor
+cell0616,,,,,,not_scored
+cell0617,CD8 Naive,CD4 Central Memory,-22.05500833,150.5656233,other,not_progenitor
+cell0618,CD4 Naive,CD4 Effector Memory,-277.9562787,134.9517033,other,not_progenitor
+cell0619,CD4 Naive,CD8 Naive,-288.0968977,159.1982241,other,not_progenitor
+cell0620,CD4 Naive,CD4 Central Memory,92.78841018,183.6325261,other,not_progenitor
+cell0621,CD4 Naive,CD8 Naive,-211.7060255,64.9811511,other,not_progenitor
+cell0622,CD8 Naive,CD4 Central Memory,-768.4043154,60.74973842,other,not_progenitor
+cell0623,CD4 Naive,CD4 Central Memory,-157.7109681,161.3258058,other,not_progenitor
+cell0624,CD8 Naive,CD4 Naive,-302.9837027,47.41694132,other,not_progenitor
+cell0625,CD8 Naive,CD4 Naive,-187.7357766,247.4005736,other,not_progenitor
+cell0626,CD4 Naive,CD4 Central Memory,-275.6172968,107.3503343,other,not_progenitor
+cell0627,CD4 Central Memory,CD4 Naive,-396.0603591,93.79307795,other,not_progenitor
+cell0628,CD4 Naive,CD4 Central Memory,-263.326074,87.40669396,other,not_progenitor
+cell0629,CD8 Central Memory,CD4 Central Memory,-340.7843332,99.94878136,other,not_progenitor
+cell0630,Orthochromatic Erythroblast,Polychromatic Erythroblast,-150.401421,451.7747609,other,not_progenitor
+cell0631,Orthochromatic Erythroblast,Polychromatic Erythroblast,-305.6536334,413.124937,other,not_progenitor
+cell0632,Orthochromatic Erythroblast,Polychromatic Erythroblast,-98.18659453,396.9620677,other,not_progenitor
+cell0633,Orthochromatic Erythroblast,Polychromatic Erythroblast,-232.9548699,501.2720498,other,not_progenitor
+cell0634,Orthochromatic Erythroblast,Polychromatic Erythroblast,339.2267496,571.3637937,other,not_progenitor
+cell0635,Orthochromatic Erythroblast,Polychromatic Erythroblast,-117.3319034,498.3385721,other,not_progenitor
+cell0636,Orthochromatic Erythroblast,Basophilic Erythroblast,-263.1864089,412.0329267,other,not_progenitor
+cell0637,Orthochromatic Erythroblast,Polychromatic Erythroblast,-124.9692519,530.7537076,other,not_progenitor
+cell0638,Orthochromatic Erythroblast,Polychromatic Erythroblast,-106.8440226,605.2020774,other,not_progenitor
+cell0639,Orthochromatic Erythroblast,Polychromatic Erythroblast,43.54722609,604.8407786,other,not_progenitor
+cell0640,Orthochromatic Erythroblast,Polychromatic Erythroblast,-141.3143274,602.8575668,other,not_progenitor
+cell0641,,,,,,not_scored
+cell0642,Orthochromatic Erythroblast,Polychromatic Erythroblast,189.0810307,662.78663,other,not_progenitor
+cell0643,Orthochromatic Erythroblast,Polychromatic Erythroblast,-248.2902036,393.0896551,other,not_progenitor
+cell0644,Orthochromatic Erythroblast,Polychromatic Erythroblast,-87.93358063,477.7405007,other,not_progenitor
+cell0645,Orthochromatic Erythroblast,Polychromatic Erythroblast,-147.8742518,579.8832636,other,not_progenitor
+cell0646,Orthochromatic Erythroblast,Polychromatic Erythroblast,-115.2976142,523.6957355,other,not_progenitor
+cell0647,Orthochromatic Erythroblast,Polychromatic Erythroblast,22.44963477,642.1002814,other,not_progenitor
+cell0648,Orthochromatic Erythroblast,Polychromatic Erythroblast,-181.5609758,401.340397,other,not_progenitor
+cell0649,Orthochromatic Erythroblast,Polychromatic Erythroblast,243.2606963,756.191557,other,not_progenitor
+cell0650,Orthochromatic Erythroblast,Polychromatic Erythroblast,-155.3688692,547.6633031,other,not_progenitor
+cell0651,Orthochromatic Erythroblast,Polychromatic Erythroblast,-9.72725966,474.736715,other,not_progenitor
+cell0652,Orthochromatic Erythroblast,Polychromatic Erythroblast,-80.9315423,560.1577036,other,not_progenitor
+cell0653,Orthochromatic Erythroblast,Polychromatic Erythroblast,26.97845819,488.0143827,other,not_progenitor
+cell0654,Orthochromatic Erythroblast,Polychromatic Erythroblast,-146.1762454,562.9877589,other,not_progenitor
+cell0655,Orthochromatic Erythroblast,Polychromatic Erythroblast,-197.8783631,540.1006651,other,not_progenitor
+cell0656,Orthochromatic Erythroblast,Polychromatic Erythroblast,-289.9207344,303.9471129,other,not_progenitor
+cell0657,Orthochromatic Erythroblast,Polychromatic Erythroblast,-37.56772556,525.2447063,other,not_progenitor
+cell0658,Orthochromatic Erythroblast,Polychromatic Erythroblast,129.2235767,495.9036748,other,not_progenitor
+cell0659,Orthochromatic Erythroblast,Polychromatic Erythroblast,23.09633916,608.7522752,other,not_progenitor
+cell0660,Orthochromatic Erythroblast,Polychromatic Erythroblast,75.25126605,544.6214599,other,not_progenitor
+cell0661,Orthochromatic Erythroblast,Polychromatic Erythroblast,86.56214405,534.491724,other,not_progenitor
+cell0662,Orthochromatic Erythroblast,Polychromatic Erythroblast,-139.5435831,415.7070123,other,not_progenitor
+cell0663,Orthochromatic Erythroblast,Polychromatic Erythroblast,0.4495366601,380.1511423,other,not_progenitor
+cell0664,Orthochromatic Erythroblast,Polychromatic Erythroblast,147.3221991,559.1722599,other,not_progenitor
+cell0665,Orthochromatic Erythroblast,Polychromatic Erythroblast,178.8711099,383.778208,other,not_progenitor
+cell0666,,,,,,not_scored
+cell0667,Orthochromatic Erythroblast,Polychromatic Erythroblast,-2.470928629,477.0418506,other,not_progenitor
+cell0668,Orthochromatic Erythroblast,Polychromatic Erythroblast,-295.1156809,411.6024447,other,not_progenitor
+cell0669,Orthochromatic Erythroblast,Polychromatic Erythroblast,43.36416823,566.1866377,other,not_progenitor
+cell0670,Stromal,Mature B,-1833.795072,392.7526232,other,not_progenitor
+cell0671,Mature B,CD16 Mono,-2081.120309,248.4817617,other,not_progenitor
+cell0672,Mature B,CD4 Naive,-1836.673354,405.9222827,other,not_progenitor
+cell0673,Stromal,Plasma Cell,-1793.857629,465.6466164,other,not_progenitor
+cell0674,Stromal,Mature B,-2127.265082,124.9017882,other,not_progenitor
+cell0675,Mature B,Plasma Cell,-1842.281714,316.907522,other,not_progenitor
+cell0676,Mature B,Stromal,-2020.116273,68.79735066,other,not_progenitor
+cell0677,Stromal,Plasma Cell,-2003.369491,527.3559679,other,not_progenitor
+cell0678,Stromal,Mature B,-1940.04518,88.87425183,other,not_progenitor
+cell0679,Plasma Cell,Stromal,-1922.927735,62.16238606,other,not_progenitor
+cell0680,Mature B,Immature B,-1938.324331,159.38327,other,not_progenitor
+cell0681,Stromal,Mature B,-2023.441616,242.6678746,other,not_progenitor
+cell0682,Mature B,Immature B,-1486.380917,396.1484363,other,not_progenitor
+cell0683,Stromal,Mature B,-2221.271945,104.2399639,other,not_progenitor
+cell0684,Mature B,CD4 Naive,-1623.07341,44.10131345,other,not_progenitor
+cell0685,Mature B,Immature B,-1779.159463,228.8662713,other,not_progenitor
+cell0686,Plasma Cell,Mature B,-1868.940293,43.2471038,other,not_progenitor
+cell0687,Orthochromatic Erythroblast,Mature B,-1266.450512,306.0511891,other,not_progenitor
+cell0688,Stromal,Plasma Cell,-1831.17343,681.7007191,other,not_progenitor
+cell0689,Mature B,CD8 Effector Memory 2,-2072.230898,227.7947994,other,not_progenitor
+cell0690,CD8 Effector Memory 1,Immature B,-2103.669822,12.06246145,other,not_progenitor
+cell0691,CD4 Central Memory,CD8 Effector Memory 1,-1938.608954,110.4538865,other,not_progenitor
+cell0692,Mature B,CD8 Naive,-2003.243719,368.8540425,other,not_progenitor
+cell0693,Stromal,Plasma Cell,-2147.724174,55.17909605,other,not_progenitor
+cell0694,Stromal,Mature B,-2012.180055,370.4856805,other,not_progenitor
+cell0695,Stromal,Plasma Cell,-1852.635796,481.6227039,other,not_progenitor
+cell0696,Mature B,Orthochromatic Erythroblast,-1876.695136,84.07215588,other,not_progenitor
+cell0697,CD4 Central Memory,CD8 Effector Memory 1,-2129.04669,0.06187487048,other,not_progenitor
+cell0698,Stromal,Plasma Cell,-1800.337802,462.416778,other,not_progenitor
+cell0699,Mature B,Immature B,-1650.58795,297.3129022,other,not_progenitor
+cell0700,Plasma Cell,Stromal,-1940.762039,179.5832095,other,not_progenitor
+cell0701,Stromal,Mature B,-2154.829561,66.79494167,other,not_progenitor
+cell0702,Mature B,Stromal,-2223.504136,19.34425179,other,not_progenitor
+cell0703,Mature B,Stromal,-2195.170694,202.083363,other,not_progenitor
+cell0704,Stromal,Mature B,-1880.6045,311.2570064,other,not_progenitor
+cell0705,Immature B,Mature B,-1832.735826,74.92477908,other,not_progenitor
+cell0706,Plasma Cell,Mature B,-2324.840751,11.02878448,other,not_progenitor
+cell0707,Mature B,Immature B,-1798.408713,38.68091496,other,not_progenitor
+cell0708,Stromal,Plasma Cell,-1838.289279,671.3203479,other,not_progenitor
+cell0709,Plasma Cell,Stromal,-2190.044108,146.3007948,other,not_progenitor
+cell0710,Stromal,Plasma Cell,-1963.523983,342.7710302,other,not_progenitor
+cell0711,Mature B,Stromal,-1982.461948,151.9789745,other,not_progenitor
+cell0712,Mature B,Stromal,-2025.952874,130.9604601,other,not_progenitor
+cell0713,Stromal,Mature B,-2247.944765,26.9816228,other,not_progenitor
+cell0714,Mature B,Stromal,-1874.986715,216.1400637,other,not_progenitor
+cell0715,,,,,,not_scored
+cell0716,Stromal,Plasma Cell,-1906.845362,421.7661838,other,not_progenitor
+cell0717,,,,,,not_scored
+cell0718,Mature B,CD4 Naive,-1518.843915,494.8280229,other,not_progenitor
+cell0719,Mature B,CD8 Effector Memory 1,-1865.715801,56.02193597,other,not_progenitor
+cell0720,Plasma Cell,Mature B,-1892.813894,61.62669436,other,not_progenitor
+cell0721,Mature B,Plasma Cell,-1926.058263,246.3288666,other,not_progenitor
+cell0722,Immature B,Stromal,-2089.207795,114.7790473,other,not_progenitor
+cell0723,Mature B,Immature B,-1852.504862,113.6869263,other,not_progenitor
+cell0724,Mature B,Immature B,-2058.777046,229.6842778,other,not_progenitor
+cell0725,Mature B,CD4 Central Memory,-1886.175017,10.51647797,other,not_progenitor
+cell0726,Mature B,CD8 Effector Memory 2,-1935.81254,378.8921931,other,not_progenitor
+cell0727,Mature B,Stromal,-2026.571667,151.705312,other,not_progenitor
+cell0728,,,,,,not_scored
+cell0729,Stromal,Plasma Cell,-1654.148306,455.1362756,other,not_progenitor

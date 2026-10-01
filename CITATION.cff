@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the BoneMarrowMap atlas it is trained on (references below)."
+title: "progenitor-score: call hematopoietic progenitor types by scoring cells against the BoneMarrowMap atlas"
+type: software
+version: 0.1.0
+authors:
+  - name: "Conor Finlay Lab, Trinity College Dublin"
+license: MIT
+repository-code: "https://github.com/finlay-immuno-lab/progenitor-score"
+keywords: [single-cell, hematopoiesis, progenitor, bone marrow, myeloid]
+references:
+  - type: article
+    title: "Single-cell transcriptional atlas of human hematopoiesis reveals genetic and hierarchy-based determinants of aberrant AML differentiation"
+    authors:
+      - {family-names: Zeng, given-names: Andy G.X.}
+      - {family-names: Iacobucci, given-names: Ilaria}
+      - {family-names: Shah, given-names: Sayyam}
+      - {family-names: Mitchell, given-names: Amanda}
+      - {family-names: Wong, given-names: Gordon}
+      - {family-names: Bansal, given-names: Suraj}
+      - {family-names: Chen, given-names: "D."}
+      - {family-names: Gao, given-names: "Q."}
+      - {family-names: Kim, given-names: "H."}
+      - {family-names: Kennedy, given-names: "J.A."}
+      - {family-names: Arruda, given-names: "A."}
+      - {family-names: Minden, given-names: "M.D."}
+      - {family-names: Haferlach, given-names: "T."}
+      - {family-names: Mullighan, given-names: "C.G."}
+      - {family-names: Dick, given-names: "J.E."}
+    journal: "Blood Cancer Discovery"
+    volume: 6
+    issue: 4
+    start: 307
+    end: 324
+    year: 2025
+    doi: "10.1158/2643-3230.BCD-24-0342"

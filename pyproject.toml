@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "progenitor-score"
+version = "0.1.0"
+description = "Score single cells against the BoneMarrowMap atlas to call hematopoietic progenitor types (numpy scorer; CellTypist model rebuilt from plain tables, no pickle)"
+readme = "README.md"
+license = {text = "MIT (code); model tables CC-BY-NC-4.0, see LICENSE-MODEL.md"}
+authors = [{name = "Conor Finlay Lab, Trinity College Dublin"}]
+classifiers = ["License :: OSI Approved :: MIT License", "Intended Audience :: Science/Research", "Topic :: Scientific/Engineering :: Bio-Informatics"]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "pandas>=2.0", "scipy>=1.10", "anndata>=0.10"]
+
+[project.optional-dependencies]
+celltypist = ["celltypist>=1.6", "scikit-learn", "scanpy"]
+test = ["pytest"]
+
+[project.scripts]
+progenitor-score = "progenitor_score.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+progenitor_score = ["models/*/*"]

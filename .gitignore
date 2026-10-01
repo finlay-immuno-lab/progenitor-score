@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.DS_Store
+# per-cell outputs and any pickled models stay out of git
+*.pkl
+*_progenitor_scores*.csv.gz
+.Rproj.user/
+.Rhistory
+.RData

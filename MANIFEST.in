@@ -1,0 +1,2 @@
+include LICENSE LICENSE-MODEL.md ATTRIBUTION.md CITATION.cff README.md MODEL_CARD.md
+recursive-include src/progenitor_score/models *

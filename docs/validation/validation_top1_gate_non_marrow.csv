@@ -1,0 +1,5 @@
+min_top1,progenitor_in_calls_at_margin_100,cells,note
+none,962,210839,"non-marrow myeloid test set (macrophage, monocyte and DC cells from tissue datasets); it holds essentially no progenitors, so every call is a false call"
+-1000,675,210839,
+-500,153,210839,
+0,12,210839,

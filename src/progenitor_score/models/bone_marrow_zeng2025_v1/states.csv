@@ -1,0 +1,56 @@
+state,intercept,group,decision
+ASDC,-3069.263916015625,mature_mnp,in
+BFU-E,-2658.07568359375,other,out
+Basophilic Erythroblast,-2812.6923828125,other,out
+CD14 Mono,-2943.453125,mature_mnp,in
+CD16 Mono,-2971.49609375,mature_mnp,in
+CD4 Central Memory,-2866.278076171875,other,out
+CD4 Effector Memory,-2902.9765625,other,out
+CD4 Naive,-2991.559326171875,other,out
+CD4 Regulatory,-2973.229248046875,other,out
+CD8 Central Memory,-2857.09912109375,other,out
+CD8 Effector Memory 1,-2892.106689453125,other,out
+CD8 Effector Memory 2,-2997.51904296875,other,out
+CD8 Naive,-2936.951171875,other,out
+CD8 Tissue Resident Memory,-3043.65185546875,other,out
+CFU-E,-2731.13720703125,other,out
+CLP,-2845.0751953125,other,out
+Cycling Progenitor,-2709.56103515625,multipotent,review
+Early GMP,-2696.482666015625,myeloid_progenitor,in
+Early ProMono,-2765.531982421875,monocyte_precursor,in (monocyte continuum)
+EoBasoMast Precursor,-2849.45703125,other,out
+GMP-Cycle,-2940.298583984375,myeloid_progenitor,in
+GMP-Mono,-2690.442626953125,myeloid_progenitor,in
+GMP-Neut,-2908.320068359375,granulocyte_primed,review
+HSC,-2854.77783203125,multipotent,review
+Immature B,-2932.2587890625,other,out
+LMPP,-2619.58447265625,multipotent,review
+Large Pre-B,-2755.64794921875,other,out
+Late ProMono,-2852.394287109375,monocyte_precursor,in (monocyte continuum)
+MEP,-2727.05810546875,other,out
+MLP,-2728.3720703125,lymphoid_shared,review
+MLP-II,-2948.74853515625,lymphoid_shared,review
+MPP-MkEry,-2621.360595703125,multipotent,review
+MPP-MyLy,-2749.240966796875,multipotent,review
+Mature B,-2874.5302734375,other,out
+Megakaryocyte,-3201.581787109375,other,out
+Megakaryocyte Precursor,-2729.30029296875,other,out
+NK,-2992.61669921875,other,out
+NK CD56high,-2902.2509765625,other,out
+NK Proliferating,-2957.454345703125,other,out
+Orthochromatic Erythroblast,-2953.464111328125,other,out
+Plasma Cell,-2958.53564453125,other,out
+Polychromatic Erythroblast,-2886.5595703125,other,out
+Pre-ProB,-2967.458251953125,other,out
+Pre-cDC,-2779.353271484375,dc_precursor,in
+Pre-pDC,-2749.543701171875,dc_precursor,in
+Pre-pDC Cycling,-2922.717041015625,dc_precursor,in
+Pro-B Cycling,-2920.36279296875,other,out
+Pro-B VDJ,-2753.62939453125,other,out
+Pro-Erythroblast,-2762.308349609375,other,out
+Small Pre-B,-2845.76806640625,other,out
+Stromal,-2992.375732421875,other,out
+T Proliferating,-2989.921875,other,out
+cDC1,-2955.875732421875,mature_mnp,in
+cDC2,-2938.67822265625,mature_mnp,in
+pDC,-2807.524169921875,mature_mnp,in
