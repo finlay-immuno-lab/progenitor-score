@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "progenitor-score"
-version = "0.1.0"
+version = "0.1.1"
 description = "Score single cells against the BoneMarrowMap atlas to call hematopoietic progenitor types (numpy scorer; CellTypist model rebuilt from plain tables, no pickle)"
 readme = "README.md"
 license = {text = "MIT (code); model tables CC-BY-NC-4.0, see LICENSE-MODEL.md"}

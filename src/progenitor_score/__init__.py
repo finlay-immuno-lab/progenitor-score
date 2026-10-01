@@ -4,4 +4,4 @@ from .model import Model, load_model, DEFAULT_MODEL
 from .score import normalise_counts, score_matrix, score_counts, score_anndata, annotate, decide
 from .cite import citation
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it and the BoneMarrowMap atlas it is trained on (references below)."
 title: "progenitor-score: call hematopoietic progenitor types by scoring cells against the BoneMarrowMap atlas"
 type: software
-version: 0.1.0
+version: 0.1.1
 authors:
   - name: "Conor Finlay Lab, Trinity College Dublin"
 license: MIT

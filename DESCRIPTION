@@ -1,7 +1,7 @@
 Package: progenitorscore
 Type: Package
 Title: Call Hematopoietic Progenitor Types by Scoring Cells Against the BoneMarrowMap Atlas
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Conor M.", "Finlay", email = "cofinlay@tcd.ie", role = c("aut", "cre")), person("Conor Finlay Lab, Trinity College Dublin", role = "cph"))
 Description: Scores single cells with a linear model trained on the BoneMarrowMap atlas (Zeng et al. 2025, Blood Cancer Discovery 6:307-24, <doi:10.1158/2643-3230.BCD-24-0342>) and calls progenitor types. Model weights are plain tables. Code is MIT; the model tables are CC BY-NC 4.0 (see LICENSE-MODEL.md).
 License: file LICENSE

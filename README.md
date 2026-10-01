@@ -4,7 +4,7 @@ Call hematopoietic progenitor types in single-cell data by scoring each cell aga
 
 * A linear model (one weight per gene per state) stored as **plain tables**. No pickle is read. Python needs only numpy/pandas/scipy/anndata; **base R** scores with the same tables; a CellTypist model can be rebuilt from them.
 * Per cell: best-matching state, runner-up, `top1` and `margin` (decision values), a group, and a call.
-* Status: **0.1.0, validated on held-out bone-marrow donors only** (see Caveats). **Please cite the atlas paper** (see Licence and attribution).
+* Status: **0.1.1, validated on held-out bone-marrow donors only** (see Caveats). **Please cite the atlas paper** (see Licence and attribution).
 
 ## What goes in, what comes out
 
